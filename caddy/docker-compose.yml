@@ -1,0 +1,65 @@
+version: '3'
+
+services:
+
+  cron:
+    container_name: cron
+    image: ghcr.io/chrisanderton/docker-crond:v2.0.1
+    restart: unless-stopped
+
+    volumes:
+      - ./cron/vaultwarden-backup.sh:/etc/periodic/daily/vaultwarden-backup:ro
+      - vaultwarden-data:/vaultwarden/data:ro
+      - backup-data:/backup
+
+    env_file:
+      - ./.env.aws
+      - ./.env.host
+      - ./.env.backup
+
+    networks:
+      - cron
+
+volumes:
+      - caddy-data:/data
+      - caddy-config:/config
+      - ./caddy/Caddyfile:/etc/caddy/Caddyfile:ro
+
+    env_file:
+      - ./.env.email
+      - ./.env.host
+
+    hostname: "caddy.xfrc.xyz"
+    ports:
+      - 80:80
+      - 443:443
+    networks:
+          - caddy
+
+  vaultwarden:
+    container_name: vaultwarden
+    image: vaultwarden/server:latest
+    restart: unless-stopped
+
+    volumes:
+      - vaultwarden-data:/data
+
+    env_file:
+      - ./.env.email
+      - ./.env.host
+      - ./.env.vaultwarden
+
+    hostname: "vault.xfrc.xyz"
+    networks:
+      - caddy
+
+  networks:
+    cron:
+    caddy:
+
+  volumes:
+    caddy-data:
+    caddy-config:
+    vaultwarden-data:
+    hosts:
+    backup-data:
