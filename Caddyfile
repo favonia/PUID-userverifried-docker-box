@@ -1,0 +1,20 @@
+{
+	email agrivatedelbow@gmail.com
+}
+
+https://cloud.xfrc.xyz:443 {
+	reverse_proxy 127.0.0.1:11000
+}
+
+https://aio.cloud.xfrc.xyz:443 {
+	tls internal
+	reverse_proxy 127.0.0.1:8443
+}
+
+ kasm.xfrc.xyz {
+	reverse_proxy https://127.0.0.1:9443 {
+		transport http {
+			tls_insecure_skip_verify
+		}
+	}
+}
