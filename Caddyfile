@@ -1,20 +1,37 @@
 {
 	email agrivatedelbow@gmail.com
+	admin off
 }
 
 https://cloud.xfrc.xyz:443 {
 	reverse_proxy 127.0.0.1:11000
 }
 
-https://aio.cloud.xfrc.xyz:443 {
-	tls internal
-	reverse_proxy 127.0.0.1:8443
+https://aio.xfrc.xyz:443 {
+	reverse_proxy 127.0.0.1:8080 {
+	  transport http {
+			tls_insecure_skip_verify
+		}
+  }
 }
 
- kasm.xfrc.xyz {
+https://pve.xfrc.xyz:443 {
+	reverse_proxy 192.168.1.50:8006 {
+		transport http {
+			tls_insecure_skip_verify
+		}
+	}
+}
+
+kasm.xfrc.xyz {
 	reverse_proxy https://127.0.0.1:9443 {
 		transport http {
 			tls_insecure_skip_verify
 		}
 	}
+}
+
+vault.xfrc.xyz {
+        reverse_proxy /notifications/hub 127.0.0.1:3012
+        reverse_proxy 127.0.0.1:8081
 }

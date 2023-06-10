@@ -1,0 +1,2185 @@
+2023-06-03 16:44:18.056 INFO  guac Registration token not present, will not continue registration 
+2023-06-03 16:44:18.069 INFO  guac Starting guacamole-lite websocket server 
+2023-06-03 16:44:18.070 DEBUG guac Fetching API hostnames 
+2023-06-03 16:44:18.093 DEBUG guac Listening on *:3000 
+2023-06-03 16:44:18.106 INFO  guac Hostname "proxy" is down 
+2023-06-03 16:44:18.115 INFO  guac Hostname "kasm_proxy" is down 
+2023-06-03 16:44:18.115 ERROR guac Cannot update hostnames. No API hostname available 
+2023-06-03 16:44:48.115 DEBUG guac Fetching API hostnames 
+2023-06-03 16:44:48.167 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:45:16.847 INFO  guac Received a healthcheck 
+2023-06-03 16:45:18.115 DEBUG guac Fetching API hostnames 
+2023-06-03 16:45:18.139 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:45:48.115 DEBUG guac Fetching API hostnames 
+2023-06-03 16:45:48.143 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:46:16.938 INFO  guac Received a healthcheck 
+2023-06-03 16:46:18.116 DEBUG guac Fetching API hostnames 
+2023-06-03 16:46:18.139 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:46:48.115 DEBUG guac Fetching API hostnames 
+2023-06-03 16:46:48.142 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:47:17.035 INFO  guac Received a healthcheck 
+2023-06-03 16:47:18.115 DEBUG guac Fetching API hostnames 
+2023-06-03 16:47:18.142 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:47:48.120 DEBUG guac Fetching API hostnames 
+2023-06-03 16:47:48.146 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:48:17.116 INFO  guac Received a healthcheck 
+2023-06-03 16:48:18.120 DEBUG guac Fetching API hostnames 
+2023-06-03 16:48:18.155 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:48:48.125 DEBUG guac Fetching API hostnames 
+2023-06-03 16:48:48.152 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:49:17.204 INFO  guac Received a healthcheck 
+2023-06-03 16:49:18.125 DEBUG guac Fetching API hostnames 
+2023-06-03 16:49:18.150 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:49:48.130 DEBUG guac Fetching API hostnames 
+2023-06-03 16:49:48.155 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:50:17.286 INFO  guac Received a healthcheck 
+2023-06-03 16:50:18.130 DEBUG guac Fetching API hostnames 
+2023-06-03 16:50:18.155 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:50:48.135 DEBUG guac Fetching API hostnames 
+2023-06-03 16:50:48.161 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:51:17.395 INFO  guac Received a healthcheck 
+2023-06-03 16:51:18.135 DEBUG guac Fetching API hostnames 
+2023-06-03 16:51:18.159 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:51:48.140 DEBUG guac Fetching API hostnames 
+2023-06-03 16:51:48.167 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:52:17.492 INFO  guac Received a healthcheck 
+2023-06-03 16:52:18.140 DEBUG guac Fetching API hostnames 
+2023-06-03 16:52:18.166 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:52:48.144 DEBUG guac Fetching API hostnames 
+2023-06-03 16:52:48.177 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:53:17.574 INFO  guac Received a healthcheck 
+2023-06-03 16:53:18.144 DEBUG guac Fetching API hostnames 
+2023-06-03 16:53:18.172 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:53:48.145 DEBUG guac Fetching API hostnames 
+2023-06-03 16:53:48.176 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:54:17.664 INFO  guac Received a healthcheck 
+2023-06-03 16:54:18.145 DEBUG guac Fetching API hostnames 
+2023-06-03 16:54:18.173 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:54:48.149 DEBUG guac Fetching API hostnames 
+2023-06-03 16:54:48.176 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:55:17.748 INFO  guac Received a healthcheck 
+2023-06-03 16:55:18.149 DEBUG guac Fetching API hostnames 
+2023-06-03 16:55:18.173 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:55:48.154 DEBUG guac Fetching API hostnames 
+2023-06-03 16:55:48.177 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:56:17.858 INFO  guac Received a healthcheck 
+2023-06-03 16:56:18.154 DEBUG guac Fetching API hostnames 
+2023-06-03 16:56:18.178 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:56:48.158 DEBUG guac Fetching API hostnames 
+2023-06-03 16:56:48.186 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:57:17.958 INFO  guac Received a healthcheck 
+2023-06-03 16:57:18.158 DEBUG guac Fetching API hostnames 
+2023-06-03 16:57:18.182 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:57:48.163 DEBUG guac Fetching API hostnames 
+2023-06-03 16:57:48.188 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:58:18.040 INFO  guac Received a healthcheck 
+2023-06-03 16:58:18.163 DEBUG guac Fetching API hostnames 
+2023-06-03 16:58:18.188 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:58:48.167 DEBUG guac Fetching API hostnames 
+2023-06-03 16:58:48.192 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:59:18.118 INFO  guac Received a healthcheck 
+2023-06-03 16:59:18.167 DEBUG guac Fetching API hostnames 
+2023-06-03 16:59:18.194 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 16:59:48.172 DEBUG guac Fetching API hostnames 
+2023-06-03 16:59:48.199 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:00:18.172 DEBUG guac Fetching API hostnames 
+2023-06-03 17:00:18.195 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:00:18.206 INFO  guac Received a healthcheck 
+2023-06-03 17:00:48.176 DEBUG guac Fetching API hostnames 
+2023-06-03 17:00:48.203 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:01:18.176 DEBUG guac Fetching API hostnames 
+2023-06-03 17:01:18.201 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:01:18.295 INFO  guac Received a healthcheck 
+2023-06-03 17:01:48.181 DEBUG guac Fetching API hostnames 
+2023-06-03 17:01:48.210 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:02:18.181 DEBUG guac Fetching API hostnames 
+2023-06-03 17:02:18.206 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:02:18.382 INFO  guac Received a healthcheck 
+2023-06-03 17:02:48.186 DEBUG guac Fetching API hostnames 
+2023-06-03 17:02:48.214 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:03:18.186 DEBUG guac Fetching API hostnames 
+2023-06-03 17:03:18.213 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:03:18.467 INFO  guac Received a healthcheck 
+2023-06-03 17:03:48.191 DEBUG guac Fetching API hostnames 
+2023-06-03 17:03:48.215 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:04:18.193 DEBUG guac Fetching API hostnames 
+2023-06-03 17:04:18.216 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:04:18.552 INFO  guac Received a healthcheck 
+2023-06-03 17:04:48.196 DEBUG guac Fetching API hostnames 
+2023-06-03 17:04:48.220 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:05:18.196 DEBUG guac Fetching API hostnames 
+2023-06-03 17:05:18.221 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:05:18.645 INFO  guac Received a healthcheck 
+2023-06-03 17:05:48.200 DEBUG guac Fetching API hostnames 
+2023-06-03 17:05:48.226 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:06:18.200 DEBUG guac Fetching API hostnames 
+2023-06-03 17:06:18.224 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:06:18.718 INFO  guac Received a healthcheck 
+2023-06-03 17:06:48.205 DEBUG guac Fetching API hostnames 
+2023-06-03 17:06:48.231 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:07:18.205 DEBUG guac Fetching API hostnames 
+2023-06-03 17:07:18.230 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:07:18.809 INFO  guac Received a healthcheck 
+2023-06-03 17:07:48.209 DEBUG guac Fetching API hostnames 
+2023-06-03 17:07:48.232 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:08:18.210 DEBUG guac Fetching API hostnames 
+2023-06-03 17:08:18.235 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:08:18.899 INFO  guac Received a healthcheck 
+2023-06-03 17:08:48.213 DEBUG guac Fetching API hostnames 
+2023-06-03 17:08:48.237 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:09:18.213 DEBUG guac Fetching API hostnames 
+2023-06-03 17:09:18.237 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:09:18.982 INFO  guac Received a healthcheck 
+2023-06-03 17:09:48.217 DEBUG guac Fetching API hostnames 
+2023-06-03 17:09:48.249 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:10:18.218 DEBUG guac Fetching API hostnames 
+2023-06-03 17:10:18.246 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:10:19.079 INFO  guac Received a healthcheck 
+2023-06-03 17:10:48.222 DEBUG guac Fetching API hostnames 
+2023-06-03 17:10:48.283 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:11:18.222 DEBUG guac Fetching API hostnames 
+2023-06-03 17:11:18.249 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:11:19.166 INFO  guac Received a healthcheck 
+2023-06-03 17:11:48.226 DEBUG guac Fetching API hostnames 
+2023-06-03 17:11:48.251 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:12:18.226 DEBUG guac Fetching API hostnames 
+2023-06-03 17:12:18.250 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:12:19.246 INFO  guac Received a healthcheck 
+2023-06-03 17:12:48.230 DEBUG guac Fetching API hostnames 
+2023-06-03 17:12:48.258 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:13:18.230 DEBUG guac Fetching API hostnames 
+2023-06-03 17:13:18.261 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:13:19.326 INFO  guac Received a healthcheck 
+2023-06-03 17:13:48.234 DEBUG guac Fetching API hostnames 
+2023-06-03 17:13:48.259 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:14:18.235 DEBUG guac Fetching API hostnames 
+2023-06-03 17:14:18.260 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:14:19.432 INFO  guac Received a healthcheck 
+2023-06-03 17:14:48.239 DEBUG guac Fetching API hostnames 
+2023-06-03 17:14:48.264 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:15:18.239 DEBUG guac Fetching API hostnames 
+2023-06-03 17:15:18.263 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:15:19.521 INFO  guac Received a healthcheck 
+2023-06-03 17:15:48.243 DEBUG guac Fetching API hostnames 
+2023-06-03 17:15:48.267 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:16:18.243 DEBUG guac Fetching API hostnames 
+2023-06-03 17:16:18.266 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:16:19.603 INFO  guac Received a healthcheck 
+2023-06-03 17:16:48.247 DEBUG guac Fetching API hostnames 
+2023-06-03 17:16:48.271 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:17:18.247 DEBUG guac Fetching API hostnames 
+2023-06-03 17:17:18.271 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:17:19.678 INFO  guac Received a healthcheck 
+2023-06-03 17:17:48.249 DEBUG guac Fetching API hostnames 
+2023-06-03 17:17:48.273 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:18:18.249 DEBUG guac Fetching API hostnames 
+2023-06-03 17:18:18.273 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:18:19.767 INFO  guac Received a healthcheck 
+2023-06-03 17:18:48.254 DEBUG guac Fetching API hostnames 
+2023-06-03 17:18:48.280 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:19:18.254 DEBUG guac Fetching API hostnames 
+2023-06-03 17:19:18.279 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:19:19.848 INFO  guac Received a healthcheck 
+2023-06-03 17:19:48.257 DEBUG guac Fetching API hostnames 
+2023-06-03 17:19:48.284 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:20:18.257 DEBUG guac Fetching API hostnames 
+2023-06-03 17:20:18.280 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:20:19.927 INFO  guac Received a healthcheck 
+2023-06-03 17:20:48.261 DEBUG guac Fetching API hostnames 
+2023-06-03 17:20:48.285 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:21:18.261 DEBUG guac Fetching API hostnames 
+2023-06-03 17:21:18.287 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:21:20.004 INFO  guac Received a healthcheck 
+2023-06-03 17:21:48.265 DEBUG guac Fetching API hostnames 
+2023-06-03 17:21:48.290 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:22:18.265 DEBUG guac Fetching API hostnames 
+2023-06-03 17:22:18.291 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:22:20.089 INFO  guac Received a healthcheck 
+2023-06-03 17:22:48.269 DEBUG guac Fetching API hostnames 
+2023-06-03 17:22:48.296 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:23:18.270 DEBUG guac Fetching API hostnames 
+2023-06-03 17:23:18.295 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:23:20.179 INFO  guac Received a healthcheck 
+2023-06-03 17:23:48.273 DEBUG guac Fetching API hostnames 
+2023-06-03 17:23:48.296 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:24:18.274 DEBUG guac Fetching API hostnames 
+2023-06-03 17:24:18.298 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:24:20.273 INFO  guac Received a healthcheck 
+2023-06-03 17:24:48.277 DEBUG guac Fetching API hostnames 
+2023-06-03 17:24:48.303 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:25:18.277 DEBUG guac Fetching API hostnames 
+2023-06-03 17:25:18.301 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:25:20.370 INFO  guac Received a healthcheck 
+2023-06-03 17:25:48.280 DEBUG guac Fetching API hostnames 
+2023-06-03 17:25:48.305 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:26:18.280 DEBUG guac Fetching API hostnames 
+2023-06-03 17:26:18.305 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:26:20.449 INFO  guac Received a healthcheck 
+2023-06-03 17:26:48.281 DEBUG guac Fetching API hostnames 
+2023-06-03 17:26:48.306 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:27:18.282 DEBUG guac Fetching API hostnames 
+2023-06-03 17:27:18.306 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:27:20.536 INFO  guac Received a healthcheck 
+2023-06-03 17:27:48.286 DEBUG guac Fetching API hostnames 
+2023-06-03 17:27:48.310 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:28:18.286 DEBUG guac Fetching API hostnames 
+2023-06-03 17:28:18.310 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:28:20.625 INFO  guac Received a healthcheck 
+2023-06-03 17:28:48.290 DEBUG guac Fetching API hostnames 
+2023-06-03 17:28:48.314 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:29:18.290 DEBUG guac Fetching API hostnames 
+2023-06-03 17:29:18.315 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:29:20.718 INFO  guac Received a healthcheck 
+2023-06-03 17:29:48.293 DEBUG guac Fetching API hostnames 
+2023-06-03 17:29:48.319 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:30:18.293 DEBUG guac Fetching API hostnames 
+2023-06-03 17:30:18.318 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:30:20.799 INFO  guac Received a healthcheck 
+2023-06-03 17:30:48.296 DEBUG guac Fetching API hostnames 
+2023-06-03 17:30:48.324 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:31:18.297 DEBUG guac Fetching API hostnames 
+2023-06-03 17:31:18.325 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:31:20.884 INFO  guac Received a healthcheck 
+2023-06-03 17:31:48.300 DEBUG guac Fetching API hostnames 
+2023-06-03 17:31:48.327 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:32:18.300 DEBUG guac Fetching API hostnames 
+2023-06-03 17:32:18.335 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:32:20.961 INFO  guac Received a healthcheck 
+2023-06-03 17:32:48.303 DEBUG guac Fetching API hostnames 
+2023-06-03 17:32:48.327 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:33:18.303 DEBUG guac Fetching API hostnames 
+2023-06-03 17:33:18.337 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:33:21.060 INFO  guac Received a healthcheck 
+2023-06-03 17:33:48.306 DEBUG guac Fetching API hostnames 
+2023-06-03 17:33:48.332 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:34:18.306 DEBUG guac Fetching API hostnames 
+2023-06-03 17:34:18.331 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:34:21.170 INFO  guac Received a healthcheck 
+2023-06-03 17:34:48.309 DEBUG guac Fetching API hostnames 
+2023-06-03 17:34:48.333 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:35:18.309 DEBUG guac Fetching API hostnames 
+2023-06-03 17:35:18.335 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:35:21.262 INFO  guac Received a healthcheck 
+2023-06-03 17:35:48.312 DEBUG guac Fetching API hostnames 
+2023-06-03 17:35:48.338 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:36:18.312 DEBUG guac Fetching API hostnames 
+2023-06-03 17:36:18.336 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:36:21.352 INFO  guac Received a healthcheck 
+2023-06-03 17:36:48.313 DEBUG guac Fetching API hostnames 
+2023-06-03 17:36:48.338 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:37:18.313 DEBUG guac Fetching API hostnames 
+2023-06-03 17:37:18.341 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:37:21.434 INFO  guac Received a healthcheck 
+2023-06-03 17:37:48.316 DEBUG guac Fetching API hostnames 
+2023-06-03 17:37:48.343 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:38:18.316 DEBUG guac Fetching API hostnames 
+2023-06-03 17:38:18.340 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:38:21.523 INFO  guac Received a healthcheck 
+2023-06-03 17:38:48.317 DEBUG guac Fetching API hostnames 
+2023-06-03 17:38:48.341 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:39:18.317 DEBUG guac Fetching API hostnames 
+2023-06-03 17:39:18.342 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:39:21.611 INFO  guac Received a healthcheck 
+2023-06-03 17:39:48.320 DEBUG guac Fetching API hostnames 
+2023-06-03 17:39:48.343 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:40:18.320 DEBUG guac Fetching API hostnames 
+2023-06-03 17:40:18.344 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:40:21.714 INFO  guac Received a healthcheck 
+2023-06-03 17:40:48.321 DEBUG guac Fetching API hostnames 
+2023-06-03 17:40:48.345 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:41:18.322 DEBUG guac Fetching API hostnames 
+2023-06-03 17:41:18.345 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:41:21.795 INFO  guac Received a healthcheck 
+2023-06-03 17:41:48.325 DEBUG guac Fetching API hostnames 
+2023-06-03 17:41:48.349 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:42:18.325 DEBUG guac Fetching API hostnames 
+2023-06-03 17:42:18.350 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:42:21.879 INFO  guac Received a healthcheck 
+2023-06-03 17:42:48.328 DEBUG guac Fetching API hostnames 
+2023-06-03 17:42:48.353 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:43:18.328 DEBUG guac Fetching API hostnames 
+2023-06-03 17:43:18.360 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:43:21.972 INFO  guac Received a healthcheck 
+2023-06-03 17:43:48.329 DEBUG guac Fetching API hostnames 
+2023-06-03 17:43:48.365 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:44:18.329 DEBUG guac Fetching API hostnames 
+2023-06-03 17:44:18.356 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:44:22.058 INFO  guac Received a healthcheck 
+2023-06-03 17:44:48.329 DEBUG guac Fetching API hostnames 
+2023-06-03 17:44:48.355 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:45:18.330 DEBUG guac Fetching API hostnames 
+2023-06-03 17:45:18.354 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:45:22.143 INFO  guac Received a healthcheck 
+2023-06-03 17:45:48.331 DEBUG guac Fetching API hostnames 
+2023-06-03 17:45:48.361 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:46:18.332 DEBUG guac Fetching API hostnames 
+2023-06-03 17:46:18.357 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:46:22.233 INFO  guac Received a healthcheck 
+2023-06-03 17:46:48.334 DEBUG guac Fetching API hostnames 
+2023-06-03 17:46:48.358 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:47:18.333 DEBUG guac Fetching API hostnames 
+2023-06-03 17:47:18.360 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:47:22.312 INFO  guac Received a healthcheck 
+2023-06-03 17:47:48.336 DEBUG guac Fetching API hostnames 
+2023-06-03 17:47:48.360 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:48:18.336 DEBUG guac Fetching API hostnames 
+2023-06-03 17:48:18.363 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:48:22.394 INFO  guac Received a healthcheck 
+2023-06-03 17:48:48.340 DEBUG guac Fetching API hostnames 
+2023-06-03 17:48:48.366 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:49:18.341 DEBUG guac Fetching API hostnames 
+2023-06-03 17:49:18.366 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:49:22.481 INFO  guac Received a healthcheck 
+2023-06-03 17:49:48.341 DEBUG guac Fetching API hostnames 
+2023-06-03 17:49:48.365 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:50:18.342 DEBUG guac Fetching API hostnames 
+2023-06-03 17:50:18.368 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:50:22.569 INFO  guac Received a healthcheck 
+2023-06-03 17:50:48.345 DEBUG guac Fetching API hostnames 
+2023-06-03 17:50:48.370 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:51:18.345 DEBUG guac Fetching API hostnames 
+2023-06-03 17:51:18.370 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:51:22.647 INFO  guac Received a healthcheck 
+2023-06-03 17:51:48.348 DEBUG guac Fetching API hostnames 
+2023-06-03 17:51:48.375 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:52:18.348 DEBUG guac Fetching API hostnames 
+2023-06-03 17:52:18.372 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:52:22.740 INFO  guac Received a healthcheck 
+2023-06-03 17:52:48.349 DEBUG guac Fetching API hostnames 
+2023-06-03 17:52:48.373 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:53:18.349 DEBUG guac Fetching API hostnames 
+2023-06-03 17:53:18.382 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:53:22.824 INFO  guac Received a healthcheck 
+2023-06-03 17:53:48.352 DEBUG guac Fetching API hostnames 
+2023-06-03 17:53:48.376 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:54:18.352 DEBUG guac Fetching API hostnames 
+2023-06-03 17:54:18.384 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:54:22.924 INFO  guac Received a healthcheck 
+2023-06-03 17:54:48.355 DEBUG guac Fetching API hostnames 
+2023-06-03 17:54:48.384 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:55:18.355 DEBUG guac Fetching API hostnames 
+2023-06-03 17:55:18.379 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:55:23.003 INFO  guac Received a healthcheck 
+2023-06-03 17:55:48.357 DEBUG guac Fetching API hostnames 
+2023-06-03 17:55:48.380 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:56:18.357 DEBUG guac Fetching API hostnames 
+2023-06-03 17:56:18.381 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:56:23.078 INFO  guac Received a healthcheck 
+2023-06-03 17:56:48.359 DEBUG guac Fetching API hostnames 
+2023-06-03 17:56:48.389 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:57:18.359 DEBUG guac Fetching API hostnames 
+2023-06-03 17:57:18.384 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:57:23.162 INFO  guac Received a healthcheck 
+2023-06-03 17:57:48.361 DEBUG guac Fetching API hostnames 
+2023-06-03 17:57:48.387 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:58:18.361 DEBUG guac Fetching API hostnames 
+2023-06-03 17:58:18.388 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:58:23.246 INFO  guac Received a healthcheck 
+2023-06-03 17:58:48.363 DEBUG guac Fetching API hostnames 
+2023-06-03 17:58:48.389 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:59:18.363 DEBUG guac Fetching API hostnames 
+2023-06-03 17:59:18.388 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 17:59:23.327 INFO  guac Received a healthcheck 
+2023-06-03 17:59:48.365 DEBUG guac Fetching API hostnames 
+2023-06-03 17:59:48.404 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:00:18.365 DEBUG guac Fetching API hostnames 
+2023-06-03 18:00:18.393 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:00:23.418 INFO  guac Received a healthcheck 
+2023-06-03 18:00:48.367 DEBUG guac Fetching API hostnames 
+2023-06-03 18:00:48.392 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:01:18.367 DEBUG guac Fetching API hostnames 
+2023-06-03 18:01:18.393 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:01:23.511 INFO  guac Received a healthcheck 
+2023-06-03 18:01:48.369 DEBUG guac Fetching API hostnames 
+2023-06-03 18:01:48.394 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:02:18.370 DEBUG guac Fetching API hostnames 
+2023-06-03 18:02:18.396 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:02:23.603 INFO  guac Received a healthcheck 
+2023-06-03 18:02:48.371 DEBUG guac Fetching API hostnames 
+2023-06-03 18:02:48.400 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:03:18.372 DEBUG guac Fetching API hostnames 
+2023-06-03 18:03:18.402 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:03:23.683 INFO  guac Received a healthcheck 
+2023-06-03 18:03:48.373 DEBUG guac Fetching API hostnames 
+2023-06-03 18:03:48.398 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:04:18.373 DEBUG guac Fetching API hostnames 
+2023-06-03 18:04:18.397 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:04:23.773 INFO  guac Received a healthcheck 
+2023-06-03 18:04:48.374 DEBUG guac Fetching API hostnames 
+2023-06-03 18:04:48.399 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:05:18.374 DEBUG guac Fetching API hostnames 
+2023-06-03 18:05:18.401 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:05:23.855 INFO  guac Received a healthcheck 
+2023-06-03 18:05:48.376 DEBUG guac Fetching API hostnames 
+2023-06-03 18:05:48.402 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:06:18.377 DEBUG guac Fetching API hostnames 
+2023-06-03 18:06:18.402 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:06:23.952 INFO  guac Received a healthcheck 
+2023-06-03 18:06:48.378 DEBUG guac Fetching API hostnames 
+2023-06-03 18:06:48.402 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:07:18.379 DEBUG guac Fetching API hostnames 
+2023-06-03 18:07:18.403 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:07:24.042 INFO  guac Received a healthcheck 
+2023-06-03 18:07:48.379 DEBUG guac Fetching API hostnames 
+2023-06-03 18:07:48.405 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:08:18.380 DEBUG guac Fetching API hostnames 
+2023-06-03 18:08:18.404 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:08:24.130 INFO  guac Received a healthcheck 
+2023-06-03 18:08:48.381 DEBUG guac Fetching API hostnames 
+2023-06-03 18:08:48.407 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:09:18.381 DEBUG guac Fetching API hostnames 
+2023-06-03 18:09:18.406 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:09:24.219 INFO  guac Received a healthcheck 
+2023-06-03 18:09:48.383 DEBUG guac Fetching API hostnames 
+2023-06-03 18:09:48.408 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:10:18.383 DEBUG guac Fetching API hostnames 
+2023-06-03 18:10:18.409 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:10:24.294 INFO  guac Received a healthcheck 
+2023-06-03 18:10:48.385 DEBUG guac Fetching API hostnames 
+2023-06-03 18:10:48.409 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:11:18.385 DEBUG guac Fetching API hostnames 
+2023-06-03 18:11:18.410 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:11:24.389 INFO  guac Received a healthcheck 
+2023-06-03 18:11:48.386 DEBUG guac Fetching API hostnames 
+2023-06-03 18:11:48.412 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:12:18.386 DEBUG guac Fetching API hostnames 
+2023-06-03 18:12:18.412 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:12:24.483 INFO  guac Received a healthcheck 
+2023-06-03 18:12:48.387 DEBUG guac Fetching API hostnames 
+2023-06-03 18:12:48.413 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:13:18.387 DEBUG guac Fetching API hostnames 
+2023-06-03 18:13:18.417 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:13:24.563 INFO  guac Received a healthcheck 
+2023-06-03 18:13:48.388 DEBUG guac Fetching API hostnames 
+2023-06-03 18:13:48.414 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:14:18.389 DEBUG guac Fetching API hostnames 
+2023-06-03 18:14:18.415 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:14:24.639 INFO  guac Received a healthcheck 
+2023-06-03 18:14:48.390 DEBUG guac Fetching API hostnames 
+2023-06-03 18:14:48.416 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:15:18.390 DEBUG guac Fetching API hostnames 
+2023-06-03 18:15:18.415 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:15:24.727 INFO  guac Received a healthcheck 
+2023-06-03 18:15:48.391 DEBUG guac Fetching API hostnames 
+2023-06-03 18:15:48.418 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:16:18.392 DEBUG guac Fetching API hostnames 
+2023-06-03 18:16:18.420 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:16:24.811 INFO  guac Received a healthcheck 
+2023-06-03 18:16:48.398 DEBUG guac Fetching API hostnames 
+2023-06-03 18:16:48.424 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:17:18.399 DEBUG guac Fetching API hostnames 
+2023-06-03 18:17:18.425 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:17:24.900 INFO  guac Received a healthcheck 
+2023-06-03 18:17:48.400 DEBUG guac Fetching API hostnames 
+2023-06-03 18:17:48.424 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:18:18.400 DEBUG guac Fetching API hostnames 
+2023-06-03 18:18:18.424 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:18:24.983 INFO  guac Received a healthcheck 
+2023-06-03 18:18:48.402 DEBUG guac Fetching API hostnames 
+2023-06-03 18:18:48.428 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:19:18.402 DEBUG guac Fetching API hostnames 
+2023-06-03 18:19:18.427 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:19:25.071 INFO  guac Received a healthcheck 
+2023-06-03 18:19:48.403 DEBUG guac Fetching API hostnames 
+2023-06-03 18:19:48.430 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:20:18.403 DEBUG guac Fetching API hostnames 
+2023-06-03 18:20:18.429 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:20:25.168 INFO  guac Received a healthcheck 
+2023-06-03 18:20:48.404 DEBUG guac Fetching API hostnames 
+2023-06-03 18:20:48.430 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:21:18.404 DEBUG guac Fetching API hostnames 
+2023-06-03 18:21:18.429 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:21:25.266 INFO  guac Received a healthcheck 
+2023-06-03 18:21:48.405 DEBUG guac Fetching API hostnames 
+2023-06-03 18:21:48.435 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:22:18.405 DEBUG guac Fetching API hostnames 
+2023-06-03 18:22:18.431 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:22:25.347 INFO  guac Received a healthcheck 
+2023-06-03 18:22:48.405 DEBUG guac Fetching API hostnames 
+2023-06-03 18:22:48.433 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:23:18.405 DEBUG guac Fetching API hostnames 
+2023-06-03 18:23:18.429 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:23:25.432 INFO  guac Received a healthcheck 
+2023-06-03 18:23:48.406 DEBUG guac Fetching API hostnames 
+2023-06-03 18:23:48.433 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:24:18.406 DEBUG guac Fetching API hostnames 
+2023-06-03 18:24:18.431 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:24:25.523 INFO  guac Received a healthcheck 
+2023-06-03 18:24:48.407 DEBUG guac Fetching API hostnames 
+2023-06-03 18:24:48.431 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:25:18.408 DEBUG guac Fetching API hostnames 
+2023-06-03 18:25:18.431 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:25:25.607 INFO  guac Received a healthcheck 
+2023-06-03 18:25:48.409 DEBUG guac Fetching API hostnames 
+2023-06-03 18:25:48.433 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:26:18.409 DEBUG guac Fetching API hostnames 
+2023-06-03 18:26:18.433 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:26:25.683 INFO  guac Received a healthcheck 
+2023-06-03 18:26:48.409 DEBUG guac Fetching API hostnames 
+2023-06-03 18:26:48.432 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:27:18.409 DEBUG guac Fetching API hostnames 
+2023-06-03 18:27:18.434 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:27:25.757 INFO  guac Received a healthcheck 
+2023-06-03 18:27:48.409 DEBUG guac Fetching API hostnames 
+2023-06-03 18:27:48.432 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:28:18.409 DEBUG guac Fetching API hostnames 
+2023-06-03 18:28:18.432 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:28:25.831 INFO  guac Received a healthcheck 
+2023-06-03 18:28:48.410 DEBUG guac Fetching API hostnames 
+2023-06-03 18:28:48.440 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:29:18.411 DEBUG guac Fetching API hostnames 
+2023-06-03 18:29:18.438 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:29:25.922 INFO  guac Received a healthcheck 
+2023-06-03 18:29:48.412 DEBUG guac Fetching API hostnames 
+2023-06-03 18:29:48.435 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:30:18.413 DEBUG guac Fetching API hostnames 
+2023-06-03 18:30:18.439 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:30:25.998 INFO  guac Received a healthcheck 
+2023-06-03 18:30:48.413 DEBUG guac Fetching API hostnames 
+2023-06-03 18:30:48.441 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:31:18.413 DEBUG guac Fetching API hostnames 
+2023-06-03 18:31:18.439 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:31:26.074 INFO  guac Received a healthcheck 
+2023-06-03 18:31:48.413 DEBUG guac Fetching API hostnames 
+2023-06-03 18:31:48.438 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:32:18.414 DEBUG guac Fetching API hostnames 
+2023-06-03 18:32:18.442 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:32:26.136 INFO  guac Received a healthcheck 
+2023-06-03 18:32:48.415 DEBUG guac Fetching API hostnames 
+2023-06-03 18:32:48.444 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:33:18.415 DEBUG guac Fetching API hostnames 
+2023-06-03 18:33:18.440 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:33:26.218 INFO  guac Received a healthcheck 
+2023-06-03 18:33:48.415 DEBUG guac Fetching API hostnames 
+2023-06-03 18:33:48.440 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:34:18.416 DEBUG guac Fetching API hostnames 
+2023-06-03 18:34:18.441 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:34:26.311 INFO  guac Received a healthcheck 
+2023-06-03 18:34:48.416 DEBUG guac Fetching API hostnames 
+2023-06-03 18:34:48.440 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:35:18.417 DEBUG guac Fetching API hostnames 
+2023-06-03 18:35:18.443 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:35:26.407 INFO  guac Received a healthcheck 
+2023-06-03 18:35:48.418 DEBUG guac Fetching API hostnames 
+2023-06-03 18:35:48.447 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:36:18.417 DEBUG guac Fetching API hostnames 
+2023-06-03 18:36:18.442 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:36:26.499 INFO  guac Received a healthcheck 
+2023-06-03 18:36:48.417 DEBUG guac Fetching API hostnames 
+2023-06-03 18:36:48.443 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:37:18.417 DEBUG guac Fetching API hostnames 
+2023-06-03 18:37:18.444 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:37:26.584 INFO  guac Received a healthcheck 
+2023-06-03 18:37:48.417 DEBUG guac Fetching API hostnames 
+2023-06-03 18:37:48.444 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:38:18.417 DEBUG guac Fetching API hostnames 
+2023-06-03 18:38:18.443 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:38:26.658 INFO  guac Received a healthcheck 
+2023-06-03 18:38:48.421 DEBUG guac Fetching API hostnames 
+2023-06-03 18:38:48.448 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:39:18.421 DEBUG guac Fetching API hostnames 
+2023-06-03 18:39:18.446 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:39:26.747 INFO  guac Received a healthcheck 
+2023-06-03 18:39:48.427 DEBUG guac Fetching API hostnames 
+2023-06-03 18:39:48.451 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:40:18.427 DEBUG guac Fetching API hostnames 
+2023-06-03 18:40:18.451 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:40:26.839 INFO  guac Received a healthcheck 
+2023-06-03 18:40:48.429 DEBUG guac Fetching API hostnames 
+2023-06-03 18:40:48.456 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:41:18.429 DEBUG guac Fetching API hostnames 
+2023-06-03 18:41:18.453 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:41:26.927 INFO  guac Received a healthcheck 
+2023-06-03 18:41:48.433 DEBUG guac Fetching API hostnames 
+2023-06-03 18:41:48.457 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:42:18.433 DEBUG guac Fetching API hostnames 
+2023-06-03 18:42:18.457 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:42:27.014 INFO  guac Received a healthcheck 
+2023-06-03 18:42:48.438 DEBUG guac Fetching API hostnames 
+2023-06-03 18:42:48.462 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:43:18.438 DEBUG guac Fetching API hostnames 
+2023-06-03 18:43:18.468 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:43:27.114 INFO  guac Received a healthcheck 
+2023-06-03 18:43:48.443 DEBUG guac Fetching API hostnames 
+2023-06-03 18:43:48.467 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:44:18.443 DEBUG guac Fetching API hostnames 
+2023-06-03 18:44:18.469 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:44:27.211 INFO  guac Received a healthcheck 
+2023-06-03 18:44:48.445 DEBUG guac Fetching API hostnames 
+2023-06-03 18:44:48.469 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:45:18.445 DEBUG guac Fetching API hostnames 
+2023-06-03 18:45:18.472 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:45:27.308 INFO  guac Received a healthcheck 
+2023-06-03 18:45:48.449 DEBUG guac Fetching API hostnames 
+2023-06-03 18:45:48.473 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:46:18.449 DEBUG guac Fetching API hostnames 
+2023-06-03 18:46:18.476 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:46:27.403 INFO  guac Received a healthcheck 
+2023-06-03 18:46:48.453 DEBUG guac Fetching API hostnames 
+2023-06-03 18:46:48.477 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:47:18.454 DEBUG guac Fetching API hostnames 
+2023-06-03 18:47:18.480 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:47:27.491 INFO  guac Received a healthcheck 
+2023-06-03 18:47:48.457 DEBUG guac Fetching API hostnames 
+2023-06-03 18:47:48.486 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:48:18.457 DEBUG guac Fetching API hostnames 
+2023-06-03 18:48:18.484 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:48:27.586 INFO  guac Received a healthcheck 
+2023-06-03 18:48:48.461 DEBUG guac Fetching API hostnames 
+2023-06-03 18:48:48.488 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:49:18.461 DEBUG guac Fetching API hostnames 
+2023-06-03 18:49:18.485 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:49:27.671 INFO  guac Received a healthcheck 
+2023-06-03 18:49:48.465 DEBUG guac Fetching API hostnames 
+2023-06-03 18:49:48.491 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:50:18.465 DEBUG guac Fetching API hostnames 
+2023-06-03 18:50:18.490 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:50:27.747 INFO  guac Received a healthcheck 
+2023-06-03 18:50:48.469 DEBUG guac Fetching API hostnames 
+2023-06-03 18:50:48.496 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:51:18.469 DEBUG guac Fetching API hostnames 
+2023-06-03 18:51:18.496 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:51:27.830 INFO  guac Received a healthcheck 
+2023-06-03 18:51:48.474 DEBUG guac Fetching API hostnames 
+2023-06-03 18:51:48.500 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:52:18.474 DEBUG guac Fetching API hostnames 
+2023-06-03 18:52:18.500 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:52:27.911 INFO  guac Received a healthcheck 
+2023-06-03 18:52:48.478 DEBUG guac Fetching API hostnames 
+2023-06-03 18:52:48.501 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:53:18.478 DEBUG guac Fetching API hostnames 
+2023-06-03 18:53:18.502 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:53:28.002 INFO  guac Received a healthcheck 
+2023-06-03 18:53:48.482 DEBUG guac Fetching API hostnames 
+2023-06-03 18:53:48.508 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:54:18.482 DEBUG guac Fetching API hostnames 
+2023-06-03 18:54:18.507 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:54:28.105 INFO  guac Received a healthcheck 
+2023-06-03 18:54:48.487 DEBUG guac Fetching API hostnames 
+2023-06-03 18:54:48.514 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:55:18.487 DEBUG guac Fetching API hostnames 
+2023-06-03 18:55:18.511 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:55:28.183 INFO  guac Received a healthcheck 
+2023-06-03 18:55:48.491 DEBUG guac Fetching API hostnames 
+2023-06-03 18:55:48.516 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:56:18.491 DEBUG guac Fetching API hostnames 
+2023-06-03 18:56:18.520 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:56:28.288 INFO  guac Received a healthcheck 
+2023-06-03 18:56:48.495 DEBUG guac Fetching API hostnames 
+2023-06-03 18:56:48.523 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:57:18.495 DEBUG guac Fetching API hostnames 
+2023-06-03 18:57:18.524 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:57:28.368 INFO  guac Received a healthcheck 
+2023-06-03 18:57:48.495 DEBUG guac Fetching API hostnames 
+2023-06-03 18:57:48.520 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:58:18.495 DEBUG guac Fetching API hostnames 
+2023-06-03 18:58:18.521 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:58:28.475 INFO  guac Received a healthcheck 
+2023-06-03 18:58:48.499 DEBUG guac Fetching API hostnames 
+2023-06-03 18:58:48.524 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:59:18.499 DEBUG guac Fetching API hostnames 
+2023-06-03 18:59:18.524 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 18:59:28.558 INFO  guac Received a healthcheck 
+2023-06-03 18:59:48.500 DEBUG guac Fetching API hostnames 
+2023-06-03 18:59:48.526 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:00:18.500 DEBUG guac Fetching API hostnames 
+2023-06-03 19:00:18.528 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:00:28.651 INFO  guac Received a healthcheck 
+2023-06-03 19:00:48.504 DEBUG guac Fetching API hostnames 
+2023-06-03 19:00:48.533 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:01:18.504 DEBUG guac Fetching API hostnames 
+2023-06-03 19:01:18.528 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:01:28.735 INFO  guac Received a healthcheck 
+2023-06-03 19:01:48.508 DEBUG guac Fetching API hostnames 
+2023-06-03 19:01:48.532 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:02:18.509 DEBUG guac Fetching API hostnames 
+2023-06-03 19:02:18.534 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:02:28.826 INFO  guac Received a healthcheck 
+2023-06-03 19:02:48.513 DEBUG guac Fetching API hostnames 
+2023-06-03 19:02:48.537 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:03:18.513 DEBUG guac Fetching API hostnames 
+2023-06-03 19:03:18.539 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:03:28.908 INFO  guac Received a healthcheck 
+2023-06-03 19:03:48.517 DEBUG guac Fetching API hostnames 
+2023-06-03 19:03:48.544 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:04:18.517 DEBUG guac Fetching API hostnames 
+2023-06-03 19:04:18.540 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:04:28.991 INFO  guac Received a healthcheck 
+2023-06-03 19:04:48.521 DEBUG guac Fetching API hostnames 
+2023-06-03 19:04:48.550 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:05:18.521 DEBUG guac Fetching API hostnames 
+2023-06-03 19:05:18.545 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:05:29.090 INFO  guac Received a healthcheck 
+2023-06-03 19:05:48.526 DEBUG guac Fetching API hostnames 
+2023-06-03 19:05:48.552 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:06:18.526 DEBUG guac Fetching API hostnames 
+2023-06-03 19:06:18.551 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:06:29.187 INFO  guac Received a healthcheck 
+2023-06-03 19:06:48.530 DEBUG guac Fetching API hostnames 
+2023-06-03 19:06:48.556 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:07:18.530 DEBUG guac Fetching API hostnames 
+2023-06-03 19:07:18.555 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:07:29.275 INFO  guac Received a healthcheck 
+2023-06-03 19:07:48.534 DEBUG guac Fetching API hostnames 
+2023-06-03 19:07:48.560 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:08:18.534 DEBUG guac Fetching API hostnames 
+2023-06-03 19:08:18.561 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:08:29.375 INFO  guac Received a healthcheck 
+2023-06-03 19:08:48.538 DEBUG guac Fetching API hostnames 
+2023-06-03 19:08:48.565 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:09:18.539 DEBUG guac Fetching API hostnames 
+2023-06-03 19:09:18.563 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:09:29.480 INFO  guac Received a healthcheck 
+2023-06-03 19:09:48.543 DEBUG guac Fetching API hostnames 
+2023-06-03 19:09:48.567 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:10:18.543 DEBUG guac Fetching API hostnames 
+2023-06-03 19:10:18.571 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:10:29.587 INFO  guac Received a healthcheck 
+2023-06-03 19:10:48.546 DEBUG guac Fetching API hostnames 
+2023-06-03 19:10:48.573 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:11:18.547 DEBUG guac Fetching API hostnames 
+2023-06-03 19:11:18.571 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:11:29.684 INFO  guac Received a healthcheck 
+2023-06-03 19:11:48.548 DEBUG guac Fetching API hostnames 
+2023-06-03 19:11:48.573 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:12:18.548 DEBUG guac Fetching API hostnames 
+2023-06-03 19:12:18.576 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:12:29.774 INFO  guac Received a healthcheck 
+2023-06-03 19:12:48.551 DEBUG guac Fetching API hostnames 
+2023-06-03 19:12:48.577 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:13:18.551 DEBUG guac Fetching API hostnames 
+2023-06-03 19:13:18.584 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:13:29.845 INFO  guac Received a healthcheck 
+2023-06-03 19:13:48.553 DEBUG guac Fetching API hostnames 
+2023-06-03 19:13:48.577 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:14:18.555 DEBUG guac Fetching API hostnames 
+2023-06-03 19:14:18.581 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:14:29.928 INFO  guac Received a healthcheck 
+2023-06-03 19:14:48.559 DEBUG guac Fetching API hostnames 
+2023-06-03 19:14:48.588 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:15:18.559 DEBUG guac Fetching API hostnames 
+2023-06-03 19:15:18.586 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:15:30.001 INFO  guac Received a healthcheck 
+2023-06-03 19:15:48.562 DEBUG guac Fetching API hostnames 
+2023-06-03 19:15:48.589 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:16:18.564 DEBUG guac Fetching API hostnames 
+2023-06-03 19:16:18.588 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:16:30.091 INFO  guac Received a healthcheck 
+2023-06-03 19:16:48.568 DEBUG guac Fetching API hostnames 
+2023-06-03 19:16:48.591 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:17:18.568 DEBUG guac Fetching API hostnames 
+2023-06-03 19:17:18.596 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:17:30.184 INFO  guac Received a healthcheck 
+2023-06-03 19:17:48.572 DEBUG guac Fetching API hostnames 
+2023-06-03 19:17:48.596 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:18:18.573 DEBUG guac Fetching API hostnames 
+2023-06-03 19:18:18.599 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:18:30.260 INFO  guac Received a healthcheck 
+2023-06-03 19:18:48.576 DEBUG guac Fetching API hostnames 
+2023-06-03 19:18:48.602 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:19:18.577 DEBUG guac Fetching API hostnames 
+2023-06-03 19:19:18.600 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:19:30.344 INFO  guac Received a healthcheck 
+2023-06-03 19:19:48.580 DEBUG guac Fetching API hostnames 
+2023-06-03 19:19:48.604 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:20:18.580 DEBUG guac Fetching API hostnames 
+2023-06-03 19:20:18.605 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:20:30.455 INFO  guac Received a healthcheck 
+2023-06-03 19:20:48.583 DEBUG guac Fetching API hostnames 
+2023-06-03 19:20:48.608 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:21:18.583 DEBUG guac Fetching API hostnames 
+2023-06-03 19:21:18.607 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:21:30.531 INFO  guac Received a healthcheck 
+2023-06-03 19:21:48.585 DEBUG guac Fetching API hostnames 
+2023-06-03 19:21:48.608 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:22:18.586 DEBUG guac Fetching API hostnames 
+2023-06-03 19:22:18.610 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:22:30.607 INFO  guac Received a healthcheck 
+2023-06-03 19:22:48.589 DEBUG guac Fetching API hostnames 
+2023-06-03 19:22:48.612 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:23:18.590 DEBUG guac Fetching API hostnames 
+2023-06-03 19:23:18.616 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:23:30.668 INFO  guac Received a healthcheck 
+2023-06-03 19:23:48.593 DEBUG guac Fetching API hostnames 
+2023-06-03 19:23:48.616 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:24:18.594 DEBUG guac Fetching API hostnames 
+2023-06-03 19:24:18.621 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:24:30.753 INFO  guac Received a healthcheck 
+2023-06-03 19:24:48.597 DEBUG guac Fetching API hostnames 
+2023-06-03 19:24:48.621 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:25:18.597 DEBUG guac Fetching API hostnames 
+2023-06-03 19:25:18.622 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:25:30.832 INFO  guac Received a healthcheck 
+2023-06-03 19:25:48.600 DEBUG guac Fetching API hostnames 
+2023-06-03 19:25:48.623 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:26:18.600 DEBUG guac Fetching API hostnames 
+2023-06-03 19:26:18.624 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:26:30.910 INFO  guac Received a healthcheck 
+2023-06-03 19:26:48.603 DEBUG guac Fetching API hostnames 
+2023-06-03 19:26:48.627 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:27:18.603 DEBUG guac Fetching API hostnames 
+2023-06-03 19:27:18.629 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:27:30.995 INFO  guac Received a healthcheck 
+2023-06-03 19:27:48.606 DEBUG guac Fetching API hostnames 
+2023-06-03 19:27:48.633 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:28:18.607 DEBUG guac Fetching API hostnames 
+2023-06-03 19:28:18.631 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:28:31.103 INFO  guac Received a healthcheck 
+2023-06-03 19:28:48.610 DEBUG guac Fetching API hostnames 
+2023-06-03 19:28:48.637 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:29:18.611 DEBUG guac Fetching API hostnames 
+2023-06-03 19:29:18.635 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:29:31.187 INFO  guac Received a healthcheck 
+2023-06-03 19:29:48.614 DEBUG guac Fetching API hostnames 
+2023-06-03 19:29:48.641 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:30:18.613 DEBUG guac Fetching API hostnames 
+2023-06-03 19:30:18.638 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:30:31.266 INFO  guac Received a healthcheck 
+2023-06-03 19:30:48.616 DEBUG guac Fetching API hostnames 
+2023-06-03 19:30:48.642 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:31:18.616 DEBUG guac Fetching API hostnames 
+2023-06-03 19:31:18.640 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:31:31.346 INFO  guac Received a healthcheck 
+2023-06-03 19:31:48.617 DEBUG guac Fetching API hostnames 
+2023-06-03 19:31:48.640 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:32:18.617 DEBUG guac Fetching API hostnames 
+2023-06-03 19:32:18.645 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:32:31.442 INFO  guac Received a healthcheck 
+2023-06-03 19:32:48.619 DEBUG guac Fetching API hostnames 
+2023-06-03 19:32:48.643 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:33:18.620 DEBUG guac Fetching API hostnames 
+2023-06-03 19:33:18.647 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:33:31.523 INFO  guac Received a healthcheck 
+2023-06-03 19:33:48.622 DEBUG guac Fetching API hostnames 
+2023-06-03 19:33:48.647 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:34:18.623 DEBUG guac Fetching API hostnames 
+2023-06-03 19:34:18.647 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:34:31.623 INFO  guac Received a healthcheck 
+2023-06-03 19:34:48.626 DEBUG guac Fetching API hostnames 
+2023-06-03 19:34:48.651 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:35:18.627 DEBUG guac Fetching API hostnames 
+2023-06-03 19:35:18.653 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:35:31.723 INFO  guac Received a healthcheck 
+2023-06-03 19:35:48.630 DEBUG guac Fetching API hostnames 
+2023-06-03 19:35:48.656 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:36:18.630 DEBUG guac Fetching API hostnames 
+2023-06-03 19:36:18.657 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:36:31.819 INFO  guac Received a healthcheck 
+2023-06-03 19:36:48.633 DEBUG guac Fetching API hostnames 
+2023-06-03 19:36:48.659 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:37:18.633 DEBUG guac Fetching API hostnames 
+2023-06-03 19:37:18.659 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:37:31.914 INFO  guac Received a healthcheck 
+2023-06-03 19:37:48.636 DEBUG guac Fetching API hostnames 
+2023-06-03 19:37:48.661 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:38:18.636 DEBUG guac Fetching API hostnames 
+2023-06-03 19:38:18.659 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:38:32.002 INFO  guac Received a healthcheck 
+2023-06-03 19:38:48.640 DEBUG guac Fetching API hostnames 
+2023-06-03 19:38:48.664 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:39:18.640 DEBUG guac Fetching API hostnames 
+2023-06-03 19:39:18.664 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:39:32.091 INFO  guac Received a healthcheck 
+2023-06-03 19:39:48.641 DEBUG guac Fetching API hostnames 
+2023-06-03 19:39:48.667 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:40:18.641 DEBUG guac Fetching API hostnames 
+2023-06-03 19:40:18.665 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:40:32.182 INFO  guac Received a healthcheck 
+2023-06-03 19:40:48.644 DEBUG guac Fetching API hostnames 
+2023-06-03 19:40:48.669 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:41:18.644 DEBUG guac Fetching API hostnames 
+2023-06-03 19:41:18.671 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:41:32.275 INFO  guac Received a healthcheck 
+2023-06-03 19:41:48.645 DEBUG guac Fetching API hostnames 
+2023-06-03 19:41:48.669 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:42:18.645 DEBUG guac Fetching API hostnames 
+2023-06-03 19:42:18.672 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:42:32.363 INFO  guac Received a healthcheck 
+2023-06-03 19:42:48.647 DEBUG guac Fetching API hostnames 
+2023-06-03 19:42:48.671 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:43:18.647 DEBUG guac Fetching API hostnames 
+2023-06-03 19:43:18.673 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:43:32.452 INFO  guac Received a healthcheck 
+2023-06-03 19:43:48.649 DEBUG guac Fetching API hostnames 
+2023-06-03 19:43:48.674 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:44:18.649 DEBUG guac Fetching API hostnames 
+2023-06-03 19:44:18.677 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:44:32.531 INFO  guac Received a healthcheck 
+2023-06-03 19:44:48.651 DEBUG guac Fetching API hostnames 
+2023-06-03 19:44:48.678 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:45:18.651 DEBUG guac Fetching API hostnames 
+2023-06-03 19:45:18.677 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:45:32.618 INFO  guac Received a healthcheck 
+2023-06-03 19:45:48.653 DEBUG guac Fetching API hostnames 
+2023-06-03 19:45:48.678 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:46:18.653 DEBUG guac Fetching API hostnames 
+2023-06-03 19:46:18.676 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:46:32.695 INFO  guac Received a healthcheck 
+2023-06-03 19:46:48.656 DEBUG guac Fetching API hostnames 
+2023-06-03 19:46:48.682 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:47:18.656 DEBUG guac Fetching API hostnames 
+2023-06-03 19:47:18.684 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:47:32.778 INFO  guac Received a healthcheck 
+2023-06-03 19:47:48.657 DEBUG guac Fetching API hostnames 
+2023-06-03 19:47:48.683 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:48:18.657 DEBUG guac Fetching API hostnames 
+2023-06-03 19:48:18.682 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:48:32.858 INFO  guac Received a healthcheck 
+2023-06-03 19:48:48.659 DEBUG guac Fetching API hostnames 
+2023-06-03 19:48:48.685 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:49:18.658 DEBUG guac Fetching API hostnames 
+2023-06-03 19:49:18.687 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:49:32.951 INFO  guac Received a healthcheck 
+2023-06-03 19:49:48.659 DEBUG guac Fetching API hostnames 
+2023-06-03 19:49:48.685 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:50:18.659 DEBUG guac Fetching API hostnames 
+2023-06-03 19:50:18.684 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:50:33.047 INFO  guac Received a healthcheck 
+2023-06-03 19:50:48.661 DEBUG guac Fetching API hostnames 
+2023-06-03 19:50:48.692 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:51:18.661 DEBUG guac Fetching API hostnames 
+2023-06-03 19:51:18.691 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:51:33.128 INFO  guac Received a healthcheck 
+2023-06-03 19:51:48.663 DEBUG guac Fetching API hostnames 
+2023-06-03 19:51:48.689 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:52:18.663 DEBUG guac Fetching API hostnames 
+2023-06-03 19:52:18.691 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:52:33.219 INFO  guac Received a healthcheck 
+2023-06-03 19:52:48.665 DEBUG guac Fetching API hostnames 
+2023-06-03 19:52:48.692 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:53:18.666 DEBUG guac Fetching API hostnames 
+2023-06-03 19:53:18.694 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:53:33.299 INFO  guac Received a healthcheck 
+2023-06-03 19:53:48.667 DEBUG guac Fetching API hostnames 
+2023-06-03 19:53:48.701 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:54:18.667 DEBUG guac Fetching API hostnames 
+2023-06-03 19:54:18.692 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:54:33.396 INFO  guac Received a healthcheck 
+2023-06-03 19:54:48.669 DEBUG guac Fetching API hostnames 
+2023-06-03 19:54:48.694 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:55:18.669 DEBUG guac Fetching API hostnames 
+2023-06-03 19:55:18.695 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:55:33.491 INFO  guac Received a healthcheck 
+2023-06-03 19:55:48.671 DEBUG guac Fetching API hostnames 
+2023-06-03 19:55:48.698 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:56:18.671 DEBUG guac Fetching API hostnames 
+2023-06-03 19:56:18.696 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:56:33.567 INFO  guac Received a healthcheck 
+2023-06-03 19:56:48.672 DEBUG guac Fetching API hostnames 
+2023-06-03 19:56:48.697 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:57:18.673 DEBUG guac Fetching API hostnames 
+2023-06-03 19:57:18.699 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:57:33.660 INFO  guac Received a healthcheck 
+2023-06-03 19:57:48.675 DEBUG guac Fetching API hostnames 
+2023-06-03 19:57:48.699 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:58:18.675 DEBUG guac Fetching API hostnames 
+2023-06-03 19:58:18.700 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:58:33.750 INFO  guac Received a healthcheck 
+2023-06-03 19:58:48.676 DEBUG guac Fetching API hostnames 
+2023-06-03 19:58:48.708 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:59:18.676 DEBUG guac Fetching API hostnames 
+2023-06-03 19:59:18.703 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 19:59:33.832 INFO  guac Received a healthcheck 
+2023-06-03 19:59:48.677 DEBUG guac Fetching API hostnames 
+2023-06-03 19:59:48.705 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:00:18.677 DEBUG guac Fetching API hostnames 
+2023-06-03 20:00:18.702 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:00:33.912 INFO  guac Received a healthcheck 
+2023-06-03 20:00:48.679 DEBUG guac Fetching API hostnames 
+2023-06-03 20:00:48.705 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:01:18.678 DEBUG guac Fetching API hostnames 
+2023-06-03 20:01:18.704 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:01:34.007 INFO  guac Received a healthcheck 
+2023-06-03 20:01:48.679 DEBUG guac Fetching API hostnames 
+2023-06-03 20:01:48.706 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:02:18.679 DEBUG guac Fetching API hostnames 
+2023-06-03 20:02:18.706 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:02:34.095 INFO  guac Received a healthcheck 
+2023-06-03 20:02:48.680 DEBUG guac Fetching API hostnames 
+2023-06-03 20:02:48.706 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:03:18.680 DEBUG guac Fetching API hostnames 
+2023-06-03 20:03:18.706 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:03:34.186 INFO  guac Received a healthcheck 
+2023-06-03 20:03:48.682 DEBUG guac Fetching API hostnames 
+2023-06-03 20:03:48.707 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:04:18.683 DEBUG guac Fetching API hostnames 
+2023-06-03 20:04:18.708 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:04:34.264 INFO  guac Received a healthcheck 
+2023-06-03 20:04:48.684 DEBUG guac Fetching API hostnames 
+2023-06-03 20:04:48.711 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:05:18.684 DEBUG guac Fetching API hostnames 
+2023-06-03 20:05:18.710 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:05:34.362 INFO  guac Received a healthcheck 
+2023-06-03 20:05:48.685 DEBUG guac Fetching API hostnames 
+2023-06-03 20:05:48.710 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:06:18.685 DEBUG guac Fetching API hostnames 
+2023-06-03 20:06:18.710 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:06:34.436 INFO  guac Received a healthcheck 
+2023-06-03 20:06:48.686 DEBUG guac Fetching API hostnames 
+2023-06-03 20:06:48.711 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:07:18.686 DEBUG guac Fetching API hostnames 
+2023-06-03 20:07:18.714 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:07:34.533 INFO  guac Received a healthcheck 
+2023-06-03 20:07:48.687 DEBUG guac Fetching API hostnames 
+2023-06-03 20:07:48.712 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:08:18.688 DEBUG guac Fetching API hostnames 
+2023-06-03 20:08:18.712 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:08:34.610 INFO  guac Received a healthcheck 
+2023-06-03 20:08:48.689 DEBUG guac Fetching API hostnames 
+2023-06-03 20:08:48.715 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:09:18.689 DEBUG guac Fetching API hostnames 
+2023-06-03 20:09:18.714 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:09:34.691 INFO  guac Received a healthcheck 
+2023-06-03 20:09:48.690 DEBUG guac Fetching API hostnames 
+2023-06-03 20:09:48.720 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:10:18.690 DEBUG guac Fetching API hostnames 
+2023-06-03 20:10:18.715 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:10:34.780 INFO  guac Received a healthcheck 
+2023-06-03 20:10:48.691 DEBUG guac Fetching API hostnames 
+2023-06-03 20:10:48.718 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:11:18.691 DEBUG guac Fetching API hostnames 
+2023-06-03 20:11:18.717 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:11:34.868 INFO  guac Received a healthcheck 
+2023-06-03 20:11:48.692 DEBUG guac Fetching API hostnames 
+2023-06-03 20:11:48.720 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:12:18.692 DEBUG guac Fetching API hostnames 
+2023-06-03 20:12:18.716 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:12:34.958 INFO  guac Received a healthcheck 
+2023-06-03 20:12:48.693 DEBUG guac Fetching API hostnames 
+2023-06-03 20:12:48.717 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:13:18.693 DEBUG guac Fetching API hostnames 
+2023-06-03 20:13:18.718 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:13:35.036 INFO  guac Received a healthcheck 
+2023-06-03 20:13:48.693 DEBUG guac Fetching API hostnames 
+2023-06-03 20:13:48.720 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:14:18.694 DEBUG guac Fetching API hostnames 
+2023-06-03 20:14:18.723 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:14:35.114 INFO  guac Received a healthcheck 
+2023-06-03 20:14:48.695 DEBUG guac Fetching API hostnames 
+2023-06-03 20:14:48.718 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:15:18.695 DEBUG guac Fetching API hostnames 
+2023-06-03 20:15:18.720 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:15:35.207 INFO  guac Received a healthcheck 
+2023-06-03 20:15:48.695 DEBUG guac Fetching API hostnames 
+2023-06-03 20:15:48.722 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:16:18.696 DEBUG guac Fetching API hostnames 
+2023-06-03 20:16:18.721 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:16:35.291 INFO  guac Received a healthcheck 
+2023-06-03 20:16:48.697 DEBUG guac Fetching API hostnames 
+2023-06-03 20:16:48.722 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:17:18.697 DEBUG guac Fetching API hostnames 
+2023-06-03 20:17:18.721 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:17:35.375 INFO  guac Received a healthcheck 
+2023-06-03 20:17:48.698 DEBUG guac Fetching API hostnames 
+2023-06-03 20:17:48.723 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:18:18.698 DEBUG guac Fetching API hostnames 
+2023-06-03 20:18:18.724 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:18:35.454 INFO  guac Received a healthcheck 
+2023-06-03 20:18:48.698 DEBUG guac Fetching API hostnames 
+2023-06-03 20:18:48.724 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:19:18.699 DEBUG guac Fetching API hostnames 
+2023-06-03 20:19:18.725 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:19:35.540 INFO  guac Received a healthcheck 
+2023-06-03 20:19:48.699 DEBUG guac Fetching API hostnames 
+2023-06-03 20:19:48.724 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:20:18.700 DEBUG guac Fetching API hostnames 
+2023-06-03 20:20:18.725 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:20:35.619 INFO  guac Received a healthcheck 
+2023-06-03 20:20:48.700 DEBUG guac Fetching API hostnames 
+2023-06-03 20:20:48.724 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:21:18.700 DEBUG guac Fetching API hostnames 
+2023-06-03 20:21:18.726 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:21:35.703 INFO  guac Received a healthcheck 
+2023-06-03 20:21:48.700 DEBUG guac Fetching API hostnames 
+2023-06-03 20:21:48.730 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:22:18.700 DEBUG guac Fetching API hostnames 
+2023-06-03 20:22:18.726 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:22:35.798 INFO  guac Received a healthcheck 
+2023-06-03 20:22:48.700 DEBUG guac Fetching API hostnames 
+2023-06-03 20:22:48.725 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:23:18.700 DEBUG guac Fetching API hostnames 
+2023-06-03 20:23:18.724 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:23:35.878 INFO  guac Received a healthcheck 
+2023-06-03 20:23:48.701 DEBUG guac Fetching API hostnames 
+2023-06-03 20:23:48.725 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:24:18.701 DEBUG guac Fetching API hostnames 
+2023-06-03 20:24:18.726 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:24:35.966 INFO  guac Received a healthcheck 
+2023-06-03 20:24:48.701 DEBUG guac Fetching API hostnames 
+2023-06-03 20:24:48.726 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:25:18.702 DEBUG guac Fetching API hostnames 
+2023-06-03 20:25:18.730 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:25:36.055 INFO  guac Received a healthcheck 
+2023-06-03 20:25:48.702 DEBUG guac Fetching API hostnames 
+2023-06-03 20:25:48.726 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:26:18.702 DEBUG guac Fetching API hostnames 
+2023-06-03 20:26:18.728 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:26:36.149 INFO  guac Received a healthcheck 
+2023-06-03 20:26:48.708 DEBUG guac Fetching API hostnames 
+2023-06-03 20:26:48.733 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:27:18.708 DEBUG guac Fetching API hostnames 
+2023-06-03 20:27:18.734 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:27:36.238 INFO  guac Received a healthcheck 
+2023-06-03 20:27:48.713 DEBUG guac Fetching API hostnames 
+2023-06-03 20:27:48.741 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:28:18.713 DEBUG guac Fetching API hostnames 
+2023-06-03 20:28:18.739 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:28:36.315 INFO  guac Received a healthcheck 
+2023-06-03 20:28:48.718 DEBUG guac Fetching API hostnames 
+2023-06-03 20:28:48.748 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:29:18.718 DEBUG guac Fetching API hostnames 
+2023-06-03 20:29:18.744 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:29:36.389 INFO  guac Received a healthcheck 
+2023-06-03 20:29:48.724 DEBUG guac Fetching API hostnames 
+2023-06-03 20:29:48.751 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:30:18.725 DEBUG guac Fetching API hostnames 
+2023-06-03 20:30:18.754 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:30:36.469 INFO  guac Received a healthcheck 
+2023-06-03 20:30:48.730 DEBUG guac Fetching API hostnames 
+2023-06-03 20:30:48.756 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:31:18.731 DEBUG guac Fetching API hostnames 
+2023-06-03 20:31:18.758 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:31:36.573 INFO  guac Received a healthcheck 
+2023-06-03 20:31:48.736 DEBUG guac Fetching API hostnames 
+2023-06-03 20:31:48.762 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:32:18.736 DEBUG guac Fetching API hostnames 
+2023-06-03 20:32:18.764 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:32:36.668 INFO  guac Received a healthcheck 
+2023-06-03 20:32:48.738 DEBUG guac Fetching API hostnames 
+2023-06-03 20:32:48.764 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:33:18.738 DEBUG guac Fetching API hostnames 
+2023-06-03 20:33:18.766 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:33:36.763 INFO  guac Received a healthcheck 
+2023-06-03 20:33:48.744 DEBUG guac Fetching API hostnames 
+2023-06-03 20:33:48.771 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:34:18.743 DEBUG guac Fetching API hostnames 
+2023-06-03 20:34:18.770 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:34:36.838 INFO  guac Received a healthcheck 
+2023-06-03 20:34:48.747 DEBUG guac Fetching API hostnames 
+2023-06-03 20:34:48.773 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:35:18.748 DEBUG guac Fetching API hostnames 
+2023-06-03 20:35:18.775 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:35:36.928 INFO  guac Received a healthcheck 
+2023-06-03 20:35:48.753 DEBUG guac Fetching API hostnames 
+2023-06-03 20:35:48.782 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:36:18.753 DEBUG guac Fetching API hostnames 
+2023-06-03 20:36:18.780 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:36:37.009 INFO  guac Received a healthcheck 
+2023-06-03 20:36:48.759 DEBUG guac Fetching API hostnames 
+2023-06-03 20:36:48.786 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:37:18.760 DEBUG guac Fetching API hostnames 
+2023-06-03 20:37:18.786 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:37:37.086 INFO  guac Received a healthcheck 
+2023-06-03 20:37:48.765 DEBUG guac Fetching API hostnames 
+2023-06-03 20:37:48.792 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:38:18.766 DEBUG guac Fetching API hostnames 
+2023-06-03 20:38:18.789 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:38:37.176 INFO  guac Received a healthcheck 
+2023-06-03 20:38:48.770 DEBUG guac Fetching API hostnames 
+2023-06-03 20:38:48.795 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:39:18.770 DEBUG guac Fetching API hostnames 
+2023-06-03 20:39:18.798 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:39:37.261 INFO  guac Received a healthcheck 
+2023-06-03 20:39:48.773 DEBUG guac Fetching API hostnames 
+2023-06-03 20:39:48.796 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:40:18.773 DEBUG guac Fetching API hostnames 
+2023-06-03 20:40:18.797 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:40:37.343 INFO  guac Received a healthcheck 
+2023-06-03 20:40:48.778 DEBUG guac Fetching API hostnames 
+2023-06-03 20:40:48.803 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:41:18.779 DEBUG guac Fetching API hostnames 
+2023-06-03 20:41:18.806 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:41:37.430 INFO  guac Received a healthcheck 
+2023-06-03 20:41:48.783 DEBUG guac Fetching API hostnames 
+2023-06-03 20:41:48.807 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:42:18.783 DEBUG guac Fetching API hostnames 
+2023-06-03 20:42:18.808 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:42:37.515 INFO  guac Received a healthcheck 
+2023-06-03 20:42:48.783 DEBUG guac Fetching API hostnames 
+2023-06-03 20:42:48.807 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:43:18.784 DEBUG guac Fetching API hostnames 
+2023-06-03 20:43:18.809 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:43:37.595 INFO  guac Received a healthcheck 
+2023-06-03 20:43:48.789 DEBUG guac Fetching API hostnames 
+2023-06-03 20:43:48.815 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:44:18.788 DEBUG guac Fetching API hostnames 
+2023-06-03 20:44:18.815 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:44:37.688 INFO  guac Received a healthcheck 
+2023-06-03 20:44:48.792 DEBUG guac Fetching API hostnames 
+2023-06-03 20:44:48.827 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:45:18.793 DEBUG guac Fetching API hostnames 
+2023-06-03 20:45:18.817 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:45:37.791 INFO  guac Received a healthcheck 
+2023-06-03 20:45:48.795 DEBUG guac Fetching API hostnames 
+2023-06-03 20:45:48.819 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:46:18.796 DEBUG guac Fetching API hostnames 
+2023-06-03 20:46:18.820 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:46:37.881 INFO  guac Received a healthcheck 
+2023-06-03 20:46:48.800 DEBUG guac Fetching API hostnames 
+2023-06-03 20:46:48.824 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:47:18.800 DEBUG guac Fetching API hostnames 
+2023-06-03 20:47:18.824 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:47:37.963 INFO  guac Received a healthcheck 
+2023-06-03 20:47:48.801 DEBUG guac Fetching API hostnames 
+2023-06-03 20:47:48.826 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:48:18.801 DEBUG guac Fetching API hostnames 
+2023-06-03 20:48:18.826 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:48:38.044 INFO  guac Received a healthcheck 
+2023-06-03 20:48:48.805 DEBUG guac Fetching API hostnames 
+2023-06-03 20:48:48.831 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:49:18.806 DEBUG guac Fetching API hostnames 
+2023-06-03 20:49:18.834 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:49:38.123 INFO  guac Received a healthcheck 
+2023-06-03 20:49:48.810 DEBUG guac Fetching API hostnames 
+2023-06-03 20:49:48.834 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:50:18.811 DEBUG guac Fetching API hostnames 
+2023-06-03 20:50:18.838 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:50:38.202 INFO  guac Received a healthcheck 
+2023-06-03 20:50:48.815 DEBUG guac Fetching API hostnames 
+2023-06-03 20:50:48.839 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:51:18.815 DEBUG guac Fetching API hostnames 
+2023-06-03 20:51:18.842 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:51:38.293 INFO  guac Received a healthcheck 
+2023-06-03 20:51:48.819 DEBUG guac Fetching API hostnames 
+2023-06-03 20:51:48.844 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:52:18.820 DEBUG guac Fetching API hostnames 
+2023-06-03 20:52:18.845 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:52:38.382 INFO  guac Received a healthcheck 
+2023-06-03 20:52:48.824 DEBUG guac Fetching API hostnames 
+2023-06-03 20:52:48.849 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:53:18.825 DEBUG guac Fetching API hostnames 
+2023-06-03 20:53:18.851 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:53:38.466 INFO  guac Received a healthcheck 
+2023-06-03 20:53:48.829 DEBUG guac Fetching API hostnames 
+2023-06-03 20:53:48.856 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:54:18.829 DEBUG guac Fetching API hostnames 
+2023-06-03 20:54:18.855 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:54:38.558 INFO  guac Received a healthcheck 
+2023-06-03 20:54:48.832 DEBUG guac Fetching API hostnames 
+2023-06-03 20:54:48.858 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:55:18.832 DEBUG guac Fetching API hostnames 
+2023-06-03 20:55:18.863 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:55:38.642 INFO  guac Received a healthcheck 
+2023-06-03 20:55:48.835 DEBUG guac Fetching API hostnames 
+2023-06-03 20:55:48.859 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:56:18.835 DEBUG guac Fetching API hostnames 
+2023-06-03 20:56:18.870 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:56:38.741 INFO  guac Received a healthcheck 
+2023-06-03 20:56:48.837 DEBUG guac Fetching API hostnames 
+2023-06-03 20:56:48.864 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:57:18.837 DEBUG guac Fetching API hostnames 
+2023-06-03 20:57:18.863 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:57:38.821 INFO  guac Received a healthcheck 
+2023-06-03 20:57:48.841 DEBUG guac Fetching API hostnames 
+2023-06-03 20:57:48.868 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:58:18.841 DEBUG guac Fetching API hostnames 
+2023-06-03 20:58:18.867 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:58:38.899 INFO  guac Received a healthcheck 
+2023-06-03 20:58:48.845 DEBUG guac Fetching API hostnames 
+2023-06-03 20:58:48.871 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:59:18.845 DEBUG guac Fetching API hostnames 
+2023-06-03 20:59:18.870 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 20:59:38.980 INFO  guac Received a healthcheck 
+2023-06-03 20:59:48.849 DEBUG guac Fetching API hostnames 
+2023-06-03 20:59:48.874 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:00:18.849 DEBUG guac Fetching API hostnames 
+2023-06-03 21:00:18.877 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:00:39.066 INFO  guac Received a healthcheck 
+2023-06-03 21:00:48.853 DEBUG guac Fetching API hostnames 
+2023-06-03 21:00:48.881 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:01:18.854 DEBUG guac Fetching API hostnames 
+2023-06-03 21:01:18.879 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:01:39.142 INFO  guac Received a healthcheck 
+2023-06-03 21:01:48.858 DEBUG guac Fetching API hostnames 
+2023-06-03 21:01:48.886 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:02:18.858 DEBUG guac Fetching API hostnames 
+2023-06-03 21:02:18.883 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:02:39.218 INFO  guac Received a healthcheck 
+2023-06-03 21:02:48.862 DEBUG guac Fetching API hostnames 
+2023-06-03 21:02:48.886 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:03:18.863 DEBUG guac Fetching API hostnames 
+2023-06-03 21:03:18.888 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:03:39.291 INFO  guac Received a healthcheck 
+2023-06-03 21:03:48.867 DEBUG guac Fetching API hostnames 
+2023-06-03 21:03:48.894 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:04:18.867 DEBUG guac Fetching API hostnames 
+2023-06-03 21:04:18.894 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:04:39.381 INFO  guac Received a healthcheck 
+2023-06-03 21:04:48.870 DEBUG guac Fetching API hostnames 
+2023-06-03 21:04:48.896 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:05:18.870 DEBUG guac Fetching API hostnames 
+2023-06-03 21:05:18.894 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:05:39.464 INFO  guac Received a healthcheck 
+2023-06-03 21:05:48.874 DEBUG guac Fetching API hostnames 
+2023-06-03 21:05:48.901 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:06:18.874 DEBUG guac Fetching API hostnames 
+2023-06-03 21:06:18.899 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:06:39.559 INFO  guac Received a healthcheck 
+2023-06-03 21:06:48.877 DEBUG guac Fetching API hostnames 
+2023-06-03 21:06:48.906 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:07:18.877 DEBUG guac Fetching API hostnames 
+2023-06-03 21:07:18.902 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:07:39.658 INFO  guac Received a healthcheck 
+2023-06-03 21:07:48.880 DEBUG guac Fetching API hostnames 
+2023-06-03 21:07:48.906 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:08:18.881 DEBUG guac Fetching API hostnames 
+2023-06-03 21:08:18.907 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:08:39.750 INFO  guac Received a healthcheck 
+2023-06-03 21:08:48.884 DEBUG guac Fetching API hostnames 
+2023-06-03 21:08:48.909 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:09:18.884 DEBUG guac Fetching API hostnames 
+2023-06-03 21:09:18.909 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:09:39.830 INFO  guac Received a healthcheck 
+2023-06-03 21:09:48.887 DEBUG guac Fetching API hostnames 
+2023-06-03 21:09:48.912 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:10:18.889 DEBUG guac Fetching API hostnames 
+2023-06-03 21:10:18.914 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:10:39.919 INFO  guac Received a healthcheck 
+2023-06-03 21:10:48.892 DEBUG guac Fetching API hostnames 
+2023-06-03 21:10:48.919 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:11:18.892 DEBUG guac Fetching API hostnames 
+2023-06-03 21:11:18.918 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:11:40.010 INFO  guac Received a healthcheck 
+2023-06-03 21:11:48.895 DEBUG guac Fetching API hostnames 
+2023-06-03 21:11:48.920 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:12:18.896 DEBUG guac Fetching API hostnames 
+2023-06-03 21:12:18.923 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:12:40.096 INFO  guac Received a healthcheck 
+2023-06-03 21:12:48.898 DEBUG guac Fetching API hostnames 
+2023-06-03 21:12:48.923 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:13:18.898 DEBUG guac Fetching API hostnames 
+2023-06-03 21:13:18.926 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:13:40.183 INFO  guac Received a healthcheck 
+2023-06-03 21:13:48.901 DEBUG guac Fetching API hostnames 
+2023-06-03 21:13:48.926 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:14:18.901 DEBUG guac Fetching API hostnames 
+2023-06-03 21:14:18.927 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:14:40.275 INFO  guac Received a healthcheck 
+2023-06-03 21:14:48.904 DEBUG guac Fetching API hostnames 
+2023-06-03 21:14:48.929 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:15:18.904 DEBUG guac Fetching API hostnames 
+2023-06-03 21:15:18.931 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:15:40.363 INFO  guac Received a healthcheck 
+2023-06-03 21:15:48.907 DEBUG guac Fetching API hostnames 
+2023-06-03 21:15:48.934 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:16:18.908 DEBUG guac Fetching API hostnames 
+2023-06-03 21:16:18.936 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:16:40.434 INFO  guac Received a healthcheck 
+2023-06-03 21:16:48.911 DEBUG guac Fetching API hostnames 
+2023-06-03 21:16:48.939 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:17:18.912 DEBUG guac Fetching API hostnames 
+2023-06-03 21:17:18.938 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:17:40.526 INFO  guac Received a healthcheck 
+2023-06-03 21:17:48.915 DEBUG guac Fetching API hostnames 
+2023-06-03 21:17:48.940 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:18:18.916 DEBUG guac Fetching API hostnames 
+2023-06-03 21:18:18.941 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:18:40.609 INFO  guac Received a healthcheck 
+2023-06-03 21:18:48.920 DEBUG guac Fetching API hostnames 
+2023-06-03 21:18:48.945 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:19:18.920 DEBUG guac Fetching API hostnames 
+2023-06-03 21:19:18.945 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:19:40.690 INFO  guac Received a healthcheck 
+2023-06-03 21:19:48.923 DEBUG guac Fetching API hostnames 
+2023-06-03 21:19:48.948 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:20:18.924 DEBUG guac Fetching API hostnames 
+2023-06-03 21:20:18.950 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:20:40.771 INFO  guac Received a healthcheck 
+2023-06-03 21:20:48.926 DEBUG guac Fetching API hostnames 
+2023-06-03 21:20:48.953 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:21:18.926 DEBUG guac Fetching API hostnames 
+2023-06-03 21:21:18.952 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:21:40.858 INFO  guac Received a healthcheck 
+2023-06-03 21:21:48.929 DEBUG guac Fetching API hostnames 
+2023-06-03 21:21:48.955 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:22:18.929 DEBUG guac Fetching API hostnames 
+2023-06-03 21:22:18.954 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:22:40.938 INFO  guac Received a healthcheck 
+2023-06-03 21:22:48.930 DEBUG guac Fetching API hostnames 
+2023-06-03 21:22:48.956 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:23:18.930 DEBUG guac Fetching API hostnames 
+2023-06-03 21:23:18.958 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:23:41.047 INFO  guac Received a healthcheck 
+2023-06-03 21:23:48.933 DEBUG guac Fetching API hostnames 
+2023-06-03 21:23:48.958 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:24:18.934 DEBUG guac Fetching API hostnames 
+2023-06-03 21:24:18.963 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:24:41.138 INFO  guac Received a healthcheck 
+2023-06-03 21:24:48.937 DEBUG guac Fetching API hostnames 
+2023-06-03 21:24:48.966 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:25:18.937 DEBUG guac Fetching API hostnames 
+2023-06-03 21:25:18.962 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:25:41.237 INFO  guac Received a healthcheck 
+2023-06-03 21:25:48.940 DEBUG guac Fetching API hostnames 
+2023-06-03 21:25:48.967 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:26:18.940 DEBUG guac Fetching API hostnames 
+2023-06-03 21:26:18.967 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:26:41.323 INFO  guac Received a healthcheck 
+2023-06-03 21:26:48.942 DEBUG guac Fetching API hostnames 
+2023-06-03 21:26:48.976 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:27:18.942 DEBUG guac Fetching API hostnames 
+2023-06-03 21:27:18.969 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:27:41.408 INFO  guac Received a healthcheck 
+2023-06-03 21:27:48.944 DEBUG guac Fetching API hostnames 
+2023-06-03 21:27:48.970 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:28:18.944 DEBUG guac Fetching API hostnames 
+2023-06-03 21:28:18.974 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:28:41.490 INFO  guac Received a healthcheck 
+2023-06-03 21:28:48.947 DEBUG guac Fetching API hostnames 
+2023-06-03 21:28:48.972 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:29:18.947 DEBUG guac Fetching API hostnames 
+2023-06-03 21:29:18.971 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:29:41.575 INFO  guac Received a healthcheck 
+2023-06-03 21:29:48.951 DEBUG guac Fetching API hostnames 
+2023-06-03 21:29:48.978 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:30:18.951 DEBUG guac Fetching API hostnames 
+2023-06-03 21:30:18.977 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:30:41.668 INFO  guac Received a healthcheck 
+2023-06-03 21:30:48.953 DEBUG guac Fetching API hostnames 
+2023-06-03 21:30:48.981 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:31:18.953 DEBUG guac Fetching API hostnames 
+2023-06-03 21:31:18.979 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:31:41.759 INFO  guac Received a healthcheck 
+2023-06-03 21:31:48.955 DEBUG guac Fetching API hostnames 
+2023-06-03 21:31:48.985 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:32:18.957 DEBUG guac Fetching API hostnames 
+2023-06-03 21:32:18.985 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:32:41.862 INFO  guac Received a healthcheck 
+2023-06-03 21:32:48.959 DEBUG guac Fetching API hostnames 
+2023-06-03 21:32:48.984 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:33:18.959 DEBUG guac Fetching API hostnames 
+2023-06-03 21:33:18.987 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:33:41.947 INFO  guac Received a healthcheck 
+2023-06-03 21:33:48.961 DEBUG guac Fetching API hostnames 
+2023-06-03 21:33:48.987 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:34:18.961 DEBUG guac Fetching API hostnames 
+2023-06-03 21:34:18.988 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:34:42.030 INFO  guac Received a healthcheck 
+2023-06-03 21:34:48.963 DEBUG guac Fetching API hostnames 
+2023-06-03 21:34:48.988 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:35:18.963 DEBUG guac Fetching API hostnames 
+2023-06-03 21:35:18.990 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:35:42.135 INFO  guac Received a healthcheck 
+2023-06-03 21:35:48.965 DEBUG guac Fetching API hostnames 
+2023-06-03 21:35:48.992 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:36:18.965 DEBUG guac Fetching API hostnames 
+2023-06-03 21:36:18.992 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:36:42.212 INFO  guac Received a healthcheck 
+2023-06-03 21:36:48.967 DEBUG guac Fetching API hostnames 
+2023-06-03 21:36:48.993 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:37:18.967 DEBUG guac Fetching API hostnames 
+2023-06-03 21:37:18.995 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:37:42.316 INFO  guac Received a healthcheck 
+2023-06-03 21:37:48.967 DEBUG guac Fetching API hostnames 
+2023-06-03 21:37:48.994 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:38:18.968 DEBUG guac Fetching API hostnames 
+2023-06-03 21:38:18.993 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:38:42.415 INFO  guac Received a healthcheck 
+2023-06-03 21:38:48.970 DEBUG guac Fetching API hostnames 
+2023-06-03 21:38:48.996 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:39:18.970 DEBUG guac Fetching API hostnames 
+2023-06-03 21:39:18.996 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:39:42.495 INFO  guac Received a healthcheck 
+2023-06-03 21:39:48.971 DEBUG guac Fetching API hostnames 
+2023-06-03 21:39:48.999 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:40:18.971 DEBUG guac Fetching API hostnames 
+2023-06-03 21:40:18.999 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:40:42.579 INFO  guac Received a healthcheck 
+2023-06-03 21:40:48.973 DEBUG guac Fetching API hostnames 
+2023-06-03 21:40:49.000 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:41:18.974 DEBUG guac Fetching API hostnames 
+2023-06-03 21:41:19.001 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:41:42.666 INFO  guac Received a healthcheck 
+2023-06-03 21:41:48.976 DEBUG guac Fetching API hostnames 
+2023-06-03 21:41:49.000 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:42:18.977 DEBUG guac Fetching API hostnames 
+2023-06-03 21:42:19.004 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:42:42.756 INFO  guac Received a healthcheck 
+2023-06-03 21:42:48.979 DEBUG guac Fetching API hostnames 
+2023-06-03 21:42:49.005 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:43:18.979 DEBUG guac Fetching API hostnames 
+2023-06-03 21:43:19.007 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:43:42.835 INFO  guac Received a healthcheck 
+2023-06-03 21:43:48.981 DEBUG guac Fetching API hostnames 
+2023-06-03 21:43:49.007 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:44:18.981 DEBUG guac Fetching API hostnames 
+2023-06-03 21:44:19.007 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:44:42.924 INFO  guac Received a healthcheck 
+2023-06-03 21:44:48.983 DEBUG guac Fetching API hostnames 
+2023-06-03 21:44:49.009 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:45:18.985 DEBUG guac Fetching API hostnames 
+2023-06-03 21:45:19.014 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:45:43.011 INFO  guac Received a healthcheck 
+2023-06-03 21:45:48.987 DEBUG guac Fetching API hostnames 
+2023-06-03 21:45:49.013 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:46:18.987 DEBUG guac Fetching API hostnames 
+2023-06-03 21:46:19.015 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:46:43.095 INFO  guac Received a healthcheck 
+2023-06-03 21:46:48.989 DEBUG guac Fetching API hostnames 
+2023-06-03 21:46:49.016 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:47:18.989 DEBUG guac Fetching API hostnames 
+2023-06-03 21:47:19.018 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:47:43.176 INFO  guac Received a healthcheck 
+2023-06-03 21:47:48.991 DEBUG guac Fetching API hostnames 
+2023-06-03 21:47:49.015 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:48:18.992 DEBUG guac Fetching API hostnames 
+2023-06-03 21:48:19.018 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:48:43.255 INFO  guac Received a healthcheck 
+2023-06-03 21:48:48.993 DEBUG guac Fetching API hostnames 
+2023-06-03 21:48:49.019 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:49:18.993 DEBUG guac Fetching API hostnames 
+2023-06-03 21:49:19.019 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:49:43.335 INFO  guac Received a healthcheck 
+2023-06-03 21:49:48.994 DEBUG guac Fetching API hostnames 
+2023-06-03 21:49:49.022 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:50:18.994 DEBUG guac Fetching API hostnames 
+2023-06-03 21:50:19.021 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:50:43.415 INFO  guac Received a healthcheck 
+2023-06-03 21:50:48.996 DEBUG guac Fetching API hostnames 
+2023-06-03 21:50:49.020 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:51:18.995 DEBUG guac Fetching API hostnames 
+2023-06-03 21:51:19.023 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:51:43.494 INFO  guac Received a healthcheck 
+2023-06-03 21:51:48.996 DEBUG guac Fetching API hostnames 
+2023-06-03 21:51:49.020 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:52:18.996 DEBUG guac Fetching API hostnames 
+2023-06-03 21:52:19.024 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:52:43.579 INFO  guac Received a healthcheck 
+2023-06-03 21:52:48.997 DEBUG guac Fetching API hostnames 
+2023-06-03 21:52:49.021 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:53:18.998 DEBUG guac Fetching API hostnames 
+2023-06-03 21:53:19.024 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:53:43.662 INFO  guac Received a healthcheck 
+2023-06-03 21:53:49.000 DEBUG guac Fetching API hostnames 
+2023-06-03 21:53:49.025 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:54:19.000 DEBUG guac Fetching API hostnames 
+2023-06-03 21:54:19.026 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:54:43.740 INFO  guac Received a healthcheck 
+2023-06-03 21:54:49.001 DEBUG guac Fetching API hostnames 
+2023-06-03 21:54:49.025 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:55:19.001 DEBUG guac Fetching API hostnames 
+2023-06-03 21:55:19.029 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:55:43.818 INFO  guac Received a healthcheck 
+2023-06-03 21:55:49.002 DEBUG guac Fetching API hostnames 
+2023-06-03 21:55:49.028 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:56:19.002 DEBUG guac Fetching API hostnames 
+2023-06-03 21:56:19.026 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:56:43.906 INFO  guac Received a healthcheck 
+2023-06-03 21:56:49.003 DEBUG guac Fetching API hostnames 
+2023-06-03 21:56:49.027 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:57:19.002 DEBUG guac Fetching API hostnames 
+2023-06-03 21:57:19.027 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:57:43.986 INFO  guac Received a healthcheck 
+2023-06-03 21:57:49.003 DEBUG guac Fetching API hostnames 
+2023-06-03 21:57:49.032 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:58:19.003 DEBUG guac Fetching API hostnames 
+2023-06-03 21:58:19.029 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:58:44.068 INFO  guac Received a healthcheck 
+2023-06-03 21:58:49.004 DEBUG guac Fetching API hostnames 
+2023-06-03 21:58:49.030 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:59:19.005 DEBUG guac Fetching API hostnames 
+2023-06-03 21:59:19.028 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 21:59:44.154 INFO  guac Received a healthcheck 
+2023-06-03 21:59:49.007 DEBUG guac Fetching API hostnames 
+2023-06-03 21:59:49.031 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:00:19.007 DEBUG guac Fetching API hostnames 
+2023-06-03 22:00:19.034 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:00:44.231 INFO  guac Received a healthcheck 
+2023-06-03 22:00:49.008 DEBUG guac Fetching API hostnames 
+2023-06-03 22:00:49.032 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:01:19.008 DEBUG guac Fetching API hostnames 
+2023-06-03 22:01:19.034 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:01:44.311 INFO  guac Received a healthcheck 
+2023-06-03 22:01:49.009 DEBUG guac Fetching API hostnames 
+2023-06-03 22:01:49.032 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:02:19.010 DEBUG guac Fetching API hostnames 
+2023-06-03 22:02:19.034 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:02:44.399 INFO  guac Received a healthcheck 
+2023-06-03 22:02:49.011 DEBUG guac Fetching API hostnames 
+2023-06-03 22:02:49.035 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:03:19.011 DEBUG guac Fetching API hostnames 
+2023-06-03 22:03:19.037 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:03:44.496 INFO  guac Received a healthcheck 
+2023-06-03 22:03:49.011 DEBUG guac Fetching API hostnames 
+2023-06-03 22:03:49.036 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:04:19.011 DEBUG guac Fetching API hostnames 
+2023-06-03 22:04:19.038 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:04:44.592 INFO  guac Received a healthcheck 
+2023-06-03 22:04:49.012 DEBUG guac Fetching API hostnames 
+2023-06-03 22:04:49.035 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:05:19.013 DEBUG guac Fetching API hostnames 
+2023-06-03 22:05:19.037 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:05:44.653 INFO  guac Received a healthcheck 
+2023-06-03 22:05:49.013 DEBUG guac Fetching API hostnames 
+2023-06-03 22:05:49.038 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:06:19.014 DEBUG guac Fetching API hostnames 
+2023-06-03 22:06:19.040 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:06:44.750 INFO  guac Received a healthcheck 
+2023-06-03 22:06:49.015 DEBUG guac Fetching API hostnames 
+2023-06-03 22:06:49.042 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:07:19.015 DEBUG guac Fetching API hostnames 
+2023-06-03 22:07:19.040 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:07:44.853 INFO  guac Received a healthcheck 
+2023-06-03 22:07:49.016 DEBUG guac Fetching API hostnames 
+2023-06-03 22:07:49.042 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:08:19.017 DEBUG guac Fetching API hostnames 
+2023-06-03 22:08:19.040 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:08:44.946 INFO  guac Received a healthcheck 
+2023-06-03 22:08:49.018 DEBUG guac Fetching API hostnames 
+2023-06-03 22:08:49.040 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:09:19.019 DEBUG guac Fetching API hostnames 
+2023-06-03 22:09:19.043 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:09:45.030 INFO  guac Received a healthcheck 
+2023-06-03 22:09:49.019 DEBUG guac Fetching API hostnames 
+2023-06-03 22:09:49.041 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:10:19.020 DEBUG guac Fetching API hostnames 
+2023-06-03 22:10:19.046 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:10:45.109 INFO  guac Received a healthcheck 
+2023-06-03 22:10:49.020 DEBUG guac Fetching API hostnames 
+2023-06-03 22:10:49.043 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:11:19.021 DEBUG guac Fetching API hostnames 
+2023-06-03 22:11:19.044 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:11:45.198 INFO  guac Received a healthcheck 
+2023-06-03 22:11:49.021 DEBUG guac Fetching API hostnames 
+2023-06-03 22:11:49.044 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:12:19.021 DEBUG guac Fetching API hostnames 
+2023-06-03 22:12:19.045 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:12:45.295 INFO  guac Received a healthcheck 
+2023-06-03 22:12:49.021 DEBUG guac Fetching API hostnames 
+2023-06-03 22:12:49.045 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:13:19.022 DEBUG guac Fetching API hostnames 
+2023-06-03 22:13:19.048 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:13:45.390 INFO  guac Received a healthcheck 
+2023-06-03 22:13:49.021 DEBUG guac Fetching API hostnames 
+2023-06-03 22:13:49.045 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:14:19.021 DEBUG guac Fetching API hostnames 
+2023-06-03 22:14:19.049 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:14:45.478 INFO  guac Received a healthcheck 
+2023-06-03 22:14:49.021 DEBUG guac Fetching API hostnames 
+2023-06-03 22:14:49.044 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:15:19.021 DEBUG guac Fetching API hostnames 
+2023-06-03 22:15:19.049 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:15:45.567 INFO  guac Received a healthcheck 
+2023-06-03 22:15:49.025 DEBUG guac Fetching API hostnames 
+2023-06-03 22:15:49.050 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:16:19.025 DEBUG guac Fetching API hostnames 
+2023-06-03 22:16:19.053 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:16:45.663 INFO  guac Received a healthcheck 
+2023-06-03 22:16:49.028 DEBUG guac Fetching API hostnames 
+2023-06-03 22:16:49.052 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:17:19.028 DEBUG guac Fetching API hostnames 
+2023-06-03 22:17:19.056 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:17:45.750 INFO  guac Received a healthcheck 
+2023-06-03 22:17:49.031 DEBUG guac Fetching API hostnames 
+2023-06-03 22:17:49.055 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:18:19.031 DEBUG guac Fetching API hostnames 
+2023-06-03 22:18:19.056 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:18:45.838 INFO  guac Received a healthcheck 
+2023-06-03 22:18:49.034 DEBUG guac Fetching API hostnames 
+2023-06-03 22:18:49.059 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:19:19.034 DEBUG guac Fetching API hostnames 
+2023-06-03 22:19:19.059 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:19:45.919 INFO  guac Received a healthcheck 
+2023-06-03 22:19:49.037 DEBUG guac Fetching API hostnames 
+2023-06-03 22:19:49.061 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:20:19.037 DEBUG guac Fetching API hostnames 
+2023-06-03 22:20:19.062 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:20:46.008 INFO  guac Received a healthcheck 
+2023-06-03 22:20:49.039 DEBUG guac Fetching API hostnames 
+2023-06-03 22:20:49.063 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:21:19.040 DEBUG guac Fetching API hostnames 
+2023-06-03 22:21:19.067 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:21:46.096 INFO  guac Received a healthcheck 
+2023-06-03 22:21:49.042 DEBUG guac Fetching API hostnames 
+2023-06-03 22:21:49.066 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:22:19.042 DEBUG guac Fetching API hostnames 
+2023-06-03 22:22:19.068 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:22:46.176 INFO  guac Received a healthcheck 
+2023-06-03 22:22:49.044 DEBUG guac Fetching API hostnames 
+2023-06-03 22:22:49.068 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:23:19.044 DEBUG guac Fetching API hostnames 
+2023-06-03 22:23:19.071 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:23:46.275 INFO  guac Received a healthcheck 
+2023-06-03 22:23:49.046 DEBUG guac Fetching API hostnames 
+2023-06-03 22:23:49.070 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:24:19.046 DEBUG guac Fetching API hostnames 
+2023-06-03 22:24:19.072 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:24:46.362 INFO  guac Received a healthcheck 
+2023-06-03 22:24:49.048 DEBUG guac Fetching API hostnames 
+2023-06-03 22:24:49.072 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:25:19.048 DEBUG guac Fetching API hostnames 
+2023-06-03 22:25:19.075 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:25:46.450 INFO  guac Received a healthcheck 
+2023-06-03 22:25:49.050 DEBUG guac Fetching API hostnames 
+2023-06-03 22:25:49.074 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:26:19.050 DEBUG guac Fetching API hostnames 
+2023-06-03 22:26:19.077 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:26:46.544 INFO  guac Received a healthcheck 
+2023-06-03 22:26:49.052 DEBUG guac Fetching API hostnames 
+2023-06-03 22:26:49.078 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:27:19.052 DEBUG guac Fetching API hostnames 
+2023-06-03 22:27:19.077 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:27:46.620 INFO  guac Received a healthcheck 
+2023-06-03 22:27:49.055 DEBUG guac Fetching API hostnames 
+2023-06-03 22:27:49.082 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:28:19.054 DEBUG guac Fetching API hostnames 
+2023-06-03 22:28:19.081 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:28:46.703 INFO  guac Received a healthcheck 
+2023-06-03 22:28:49.056 DEBUG guac Fetching API hostnames 
+2023-06-03 22:28:49.082 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:29:19.057 DEBUG guac Fetching API hostnames 
+2023-06-03 22:29:19.080 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:29:46.783 INFO  guac Received a healthcheck 
+2023-06-03 22:29:49.058 DEBUG guac Fetching API hostnames 
+2023-06-03 22:29:49.082 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:30:19.058 DEBUG guac Fetching API hostnames 
+2023-06-03 22:30:19.085 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:30:46.869 INFO  guac Received a healthcheck 
+2023-06-03 22:30:49.060 DEBUG guac Fetching API hostnames 
+2023-06-03 22:30:49.086 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:31:19.061 DEBUG guac Fetching API hostnames 
+2023-06-03 22:31:19.085 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:31:46.958 INFO  guac Received a healthcheck 
+2023-06-03 22:31:49.063 DEBUG guac Fetching API hostnames 
+2023-06-03 22:31:49.089 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:32:19.063 DEBUG guac Fetching API hostnames 
+2023-06-03 22:32:19.089 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:32:47.042 INFO  guac Received a healthcheck 
+2023-06-03 22:32:49.064 DEBUG guac Fetching API hostnames 
+2023-06-03 22:32:49.088 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:33:19.064 DEBUG guac Fetching API hostnames 
+2023-06-03 22:33:19.089 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:33:47.118 INFO  guac Received a healthcheck 
+2023-06-03 22:33:49.065 DEBUG guac Fetching API hostnames 
+2023-06-03 22:33:49.088 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:34:19.065 DEBUG guac Fetching API hostnames 
+2023-06-03 22:34:19.092 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:34:47.216 INFO  guac Received a healthcheck 
+2023-06-03 22:34:49.066 DEBUG guac Fetching API hostnames 
+2023-06-03 22:34:49.088 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:35:19.066 DEBUG guac Fetching API hostnames 
+2023-06-03 22:35:19.090 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:35:47.290 INFO  guac Received a healthcheck 
+2023-06-03 22:35:49.067 DEBUG guac Fetching API hostnames 
+2023-06-03 22:35:49.090 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:36:19.068 DEBUG guac Fetching API hostnames 
+2023-06-03 22:36:19.092 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:36:47.398 INFO  guac Received a healthcheck 
+2023-06-03 22:36:49.069 DEBUG guac Fetching API hostnames 
+2023-06-03 22:36:49.092 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:37:19.070 DEBUG guac Fetching API hostnames 
+2023-06-03 22:37:19.096 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:37:47.474 INFO  guac Received a healthcheck 
+2023-06-03 22:37:49.071 DEBUG guac Fetching API hostnames 
+2023-06-03 22:37:49.096 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:38:19.071 DEBUG guac Fetching API hostnames 
+2023-06-03 22:38:19.104 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:38:47.586 INFO  guac Received a healthcheck 
+2023-06-03 22:38:49.072 DEBUG guac Fetching API hostnames 
+2023-06-03 22:38:49.100 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:39:19.072 DEBUG guac Fetching API hostnames 
+2023-06-03 22:39:19.100 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:39:47.670 INFO  guac Received a healthcheck 
+2023-06-03 22:39:49.073 DEBUG guac Fetching API hostnames 
+2023-06-03 22:39:49.097 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:40:19.073 DEBUG guac Fetching API hostnames 
+2023-06-03 22:40:19.098 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:40:47.754 INFO  guac Received a healthcheck 
+2023-06-03 22:40:49.074 DEBUG guac Fetching API hostnames 
+2023-06-03 22:40:49.098 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:41:19.075 DEBUG guac Fetching API hostnames 
+2023-06-03 22:41:19.098 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:41:47.830 INFO  guac Received a healthcheck 
+2023-06-03 22:41:49.077 DEBUG guac Fetching API hostnames 
+2023-06-03 22:41:49.104 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:42:19.077 DEBUG guac Fetching API hostnames 
+2023-06-03 22:42:19.102 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:42:47.911 INFO  guac Received a healthcheck 
+2023-06-03 22:42:49.078 DEBUG guac Fetching API hostnames 
+2023-06-03 22:42:49.106 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:43:19.079 DEBUG guac Fetching API hostnames 
+2023-06-03 22:43:19.106 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:43:47.994 INFO  guac Received a healthcheck 
+2023-06-03 22:43:49.081 DEBUG guac Fetching API hostnames 
+2023-06-03 22:43:49.103 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:44:19.081 DEBUG guac Fetching API hostnames 
+2023-06-03 22:44:19.107 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:44:48.081 INFO  guac Received a healthcheck 
+2023-06-03 22:44:49.081 DEBUG guac Fetching API hostnames 
+2023-06-03 22:44:49.104 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:45:19.081 DEBUG guac Fetching API hostnames 
+2023-06-03 22:45:19.106 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:45:48.166 INFO  guac Received a healthcheck 
+2023-06-03 22:45:49.081 DEBUG guac Fetching API hostnames 
+2023-06-03 22:45:49.103 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:46:19.081 DEBUG guac Fetching API hostnames 
+2023-06-03 22:46:19.108 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:46:48.247 INFO  guac Received a healthcheck 
+2023-06-03 22:46:49.081 DEBUG guac Fetching API hostnames 
+2023-06-03 22:46:49.106 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:47:19.081 DEBUG guac Fetching API hostnames 
+2023-06-03 22:47:19.106 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:47:48.338 INFO  guac Received a healthcheck 
+2023-06-03 22:47:49.081 DEBUG guac Fetching API hostnames 
+2023-06-03 22:47:49.106 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:48:19.082 DEBUG guac Fetching API hostnames 
+2023-06-03 22:48:19.109 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:48:48.419 INFO  guac Received a healthcheck 
+2023-06-03 22:48:49.082 DEBUG guac Fetching API hostnames 
+2023-06-03 22:48:49.107 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:49:19.082 DEBUG guac Fetching API hostnames 
+2023-06-03 22:49:19.107 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:49:48.519 INFO  guac Received a healthcheck 
+2023-06-03 22:49:49.083 DEBUG guac Fetching API hostnames 
+2023-06-03 22:49:49.107 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:50:19.083 DEBUG guac Fetching API hostnames 
+2023-06-03 22:50:19.107 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:50:48.618 INFO  guac Received a healthcheck 
+2023-06-03 22:50:49.083 DEBUG guac Fetching API hostnames 
+2023-06-03 22:50:49.109 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:51:19.084 DEBUG guac Fetching API hostnames 
+2023-06-03 22:51:19.108 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:51:48.705 INFO  guac Received a healthcheck 
+2023-06-03 22:51:49.083 DEBUG guac Fetching API hostnames 
+2023-06-03 22:51:49.109 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:52:19.083 DEBUG guac Fetching API hostnames 
+2023-06-03 22:52:19.107 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:52:48.811 INFO  guac Received a healthcheck 
+2023-06-03 22:52:49.083 DEBUG guac Fetching API hostnames 
+2023-06-03 22:52:49.106 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:53:19.083 DEBUG guac Fetching API hostnames 
+2023-06-03 22:53:19.106 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:53:48.906 INFO  guac Received a healthcheck 
+2023-06-03 22:53:49.083 DEBUG guac Fetching API hostnames 
+2023-06-03 22:53:49.109 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:54:19.083 DEBUG guac Fetching API hostnames 
+2023-06-03 22:54:19.109 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:54:48.999 INFO  guac Received a healthcheck 
+2023-06-03 22:54:49.083 DEBUG guac Fetching API hostnames 
+2023-06-03 22:54:49.109 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:55:19.083 DEBUG guac Fetching API hostnames 
+2023-06-03 22:55:19.110 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:55:49.086 DEBUG guac Fetching API hostnames 
+2023-06-03 22:55:49.089 INFO  guac Received a healthcheck 
+2023-06-03 22:55:49.111 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:56:19.086 DEBUG guac Fetching API hostnames 
+2023-06-03 22:56:19.111 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:56:49.089 DEBUG guac Fetching API hostnames 
+2023-06-03 22:56:49.120 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:56:49.187 INFO  guac Received a healthcheck 
+2023-06-03 22:57:19.089 DEBUG guac Fetching API hostnames 
+2023-06-03 22:57:19.117 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:57:49.092 DEBUG guac Fetching API hostnames 
+2023-06-03 22:57:49.118 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:57:49.267 INFO  guac Received a healthcheck 
+2023-06-03 22:58:19.092 DEBUG guac Fetching API hostnames 
+2023-06-03 22:58:19.119 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:58:49.095 DEBUG guac Fetching API hostnames 
+2023-06-03 22:58:49.118 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:58:49.347 INFO  guac Received a healthcheck 
+2023-06-03 22:59:19.095 DEBUG guac Fetching API hostnames 
+2023-06-03 22:59:19.121 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:59:49.098 DEBUG guac Fetching API hostnames 
+2023-06-03 22:59:49.123 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 22:59:49.444 INFO  guac Received a healthcheck 
+2023-06-03 23:00:19.099 DEBUG guac Fetching API hostnames 
+2023-06-03 23:00:19.124 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:00:49.101 DEBUG guac Fetching API hostnames 
+2023-06-03 23:00:49.123 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:00:49.539 INFO  guac Received a healthcheck 
+2023-06-03 23:01:19.102 DEBUG guac Fetching API hostnames 
+2023-06-03 23:01:19.128 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:01:49.104 DEBUG guac Fetching API hostnames 
+2023-06-03 23:01:49.129 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:01:49.635 INFO  guac Received a healthcheck 
+2023-06-03 23:02:19.104 DEBUG guac Fetching API hostnames 
+2023-06-03 23:02:19.128 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:02:49.107 DEBUG guac Fetching API hostnames 
+2023-06-03 23:02:49.135 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:02:49.734 INFO  guac Received a healthcheck 
+2023-06-03 23:03:19.107 DEBUG guac Fetching API hostnames 
+2023-06-03 23:03:19.131 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:03:49.108 DEBUG guac Fetching API hostnames 
+2023-06-03 23:03:49.134 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:03:49.818 INFO  guac Received a healthcheck 
+2023-06-03 23:04:19.108 DEBUG guac Fetching API hostnames 
+2023-06-03 23:04:19.134 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:04:49.111 DEBUG guac Fetching API hostnames 
+2023-06-03 23:04:49.137 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:04:49.900 INFO  guac Received a healthcheck 
+2023-06-03 23:05:19.111 DEBUG guac Fetching API hostnames 
+2023-06-03 23:05:19.137 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:05:49.113 DEBUG guac Fetching API hostnames 
+2023-06-03 23:05:49.140 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:05:49.979 INFO  guac Received a healthcheck 
+2023-06-03 23:06:19.113 DEBUG guac Fetching API hostnames 
+2023-06-03 23:06:19.139 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:06:49.116 DEBUG guac Fetching API hostnames 
+2023-06-03 23:06:49.141 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:06:50.075 INFO  guac Received a healthcheck 
+2023-06-03 23:07:19.116 DEBUG guac Fetching API hostnames 
+2023-06-03 23:07:19.141 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:07:49.118 DEBUG guac Fetching API hostnames 
+2023-06-03 23:07:49.142 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:07:50.154 INFO  guac Received a healthcheck 
+2023-06-03 23:08:19.119 DEBUG guac Fetching API hostnames 
+2023-06-03 23:08:19.146 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:08:49.121 DEBUG guac Fetching API hostnames 
+2023-06-03 23:08:49.147 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:08:50.238 INFO  guac Received a healthcheck 
+2023-06-03 23:09:19.121 DEBUG guac Fetching API hostnames 
+2023-06-03 23:09:19.145 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:09:49.124 DEBUG guac Fetching API hostnames 
+2023-06-03 23:09:49.149 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:09:50.324 INFO  guac Received a healthcheck 
+2023-06-03 23:10:19.125 DEBUG guac Fetching API hostnames 
+2023-06-03 23:10:19.151 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:10:49.127 DEBUG guac Fetching API hostnames 
+2023-06-03 23:10:49.164 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:10:50.407 INFO  guac Received a healthcheck 
+2023-06-03 23:11:19.127 DEBUG guac Fetching API hostnames 
+2023-06-03 23:11:19.153 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:11:49.131 DEBUG guac Fetching API hostnames 
+2023-06-03 23:11:49.159 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:11:50.491 INFO  guac Received a healthcheck 
+2023-06-03 23:12:19.131 DEBUG guac Fetching API hostnames 
+2023-06-03 23:12:19.158 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:12:49.134 DEBUG guac Fetching API hostnames 
+2023-06-03 23:12:49.160 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:12:50.567 INFO  guac Received a healthcheck 
+2023-06-03 23:13:19.134 DEBUG guac Fetching API hostnames 
+2023-06-03 23:13:19.160 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:13:49.137 DEBUG guac Fetching API hostnames 
+2023-06-03 23:13:49.164 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:13:50.651 INFO  guac Received a healthcheck 
+2023-06-03 23:14:19.137 DEBUG guac Fetching API hostnames 
+2023-06-03 23:14:19.165 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:14:49.139 DEBUG guac Fetching API hostnames 
+2023-06-03 23:14:49.163 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:14:50.734 INFO  guac Received a healthcheck 
+2023-06-03 23:15:19.140 DEBUG guac Fetching API hostnames 
+2023-06-03 23:15:19.167 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:15:49.141 DEBUG guac Fetching API hostnames 
+2023-06-03 23:15:49.167 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:15:50.819 INFO  guac Received a healthcheck 
+2023-06-03 23:16:19.141 DEBUG guac Fetching API hostnames 
+2023-06-03 23:16:19.169 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:16:49.143 DEBUG guac Fetching API hostnames 
+2023-06-03 23:16:49.167 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:16:50.914 INFO  guac Received a healthcheck 
+2023-06-03 23:17:19.144 DEBUG guac Fetching API hostnames 
+2023-06-03 23:17:19.171 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:17:49.146 DEBUG guac Fetching API hostnames 
+2023-06-03 23:17:49.172 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:17:51.007 INFO  guac Received a healthcheck 
+2023-06-03 23:18:19.146 DEBUG guac Fetching API hostnames 
+2023-06-03 23:18:19.171 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:18:49.146 DEBUG guac Fetching API hostnames 
+2023-06-03 23:18:49.175 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:18:51.090 INFO  guac Received a healthcheck 
+2023-06-03 23:19:19.146 DEBUG guac Fetching API hostnames 
+2023-06-03 23:19:19.173 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:19:49.148 DEBUG guac Fetching API hostnames 
+2023-06-03 23:19:49.176 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:19:51.187 INFO  guac Received a healthcheck 
+2023-06-03 23:20:19.148 DEBUG guac Fetching API hostnames 
+2023-06-03 23:20:19.174 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:20:49.150 DEBUG guac Fetching API hostnames 
+2023-06-03 23:20:49.177 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:20:51.271 INFO  guac Received a healthcheck 
+2023-06-03 23:21:19.150 DEBUG guac Fetching API hostnames 
+2023-06-03 23:21:19.175 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:21:49.152 DEBUG guac Fetching API hostnames 
+2023-06-03 23:21:49.180 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:21:51.351 INFO  guac Received a healthcheck 
+2023-06-03 23:22:19.152 DEBUG guac Fetching API hostnames 
+2023-06-03 23:22:19.175 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:22:49.154 DEBUG guac Fetching API hostnames 
+2023-06-03 23:22:49.180 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:22:51.434 INFO  guac Received a healthcheck 
+2023-06-03 23:23:19.155 DEBUG guac Fetching API hostnames 
+2023-06-03 23:23:19.182 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:23:49.157 DEBUG guac Fetching API hostnames 
+2023-06-03 23:23:49.183 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:23:51.531 INFO  guac Received a healthcheck 
+2023-06-03 23:24:19.157 DEBUG guac Fetching API hostnames 
+2023-06-03 23:24:19.184 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:24:49.158 DEBUG guac Fetching API hostnames 
+2023-06-03 23:24:49.185 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:24:51.611 INFO  guac Received a healthcheck 
+2023-06-03 23:25:19.159 DEBUG guac Fetching API hostnames 
+2023-06-03 23:25:19.185 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:25:49.160 DEBUG guac Fetching API hostnames 
+2023-06-03 23:25:49.185 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:25:51.698 INFO  guac Received a healthcheck 
+2023-06-03 23:26:19.162 DEBUG guac Fetching API hostnames 
+2023-06-03 23:26:19.190 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:26:49.164 DEBUG guac Fetching API hostnames 
+2023-06-03 23:26:49.191 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:26:51.792 INFO  guac Received a healthcheck 
+2023-06-03 23:27:19.164 DEBUG guac Fetching API hostnames 
+2023-06-03 23:27:19.191 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:27:49.165 DEBUG guac Fetching API hostnames 
+2023-06-03 23:27:49.193 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:27:51.870 INFO  guac Received a healthcheck 
+2023-06-03 23:28:19.165 DEBUG guac Fetching API hostnames 
+2023-06-03 23:28:19.190 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:28:49.167 DEBUG guac Fetching API hostnames 
+2023-06-03 23:28:49.193 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:28:51.986 INFO  guac Received a healthcheck 
+2023-06-03 23:29:19.168 DEBUG guac Fetching API hostnames 
+2023-06-03 23:29:19.193 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:29:49.169 DEBUG guac Fetching API hostnames 
+2023-06-03 23:29:49.196 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:29:52.066 INFO  guac Received a healthcheck 
+2023-06-03 23:30:19.169 DEBUG guac Fetching API hostnames 
+2023-06-03 23:30:19.196 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:30:49.171 DEBUG guac Fetching API hostnames 
+2023-06-03 23:30:49.199 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:30:52.162 INFO  guac Received a healthcheck 
+2023-06-03 23:31:19.171 DEBUG guac Fetching API hostnames 
+2023-06-03 23:31:19.197 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:31:49.172 DEBUG guac Fetching API hostnames 
+2023-06-03 23:31:49.199 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:31:52.258 INFO  guac Received a healthcheck 
+2023-06-03 23:32:19.173 DEBUG guac Fetching API hostnames 
+2023-06-03 23:32:19.199 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:32:49.174 DEBUG guac Fetching API hostnames 
+2023-06-03 23:32:49.200 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:32:52.347 INFO  guac Received a healthcheck 
+2023-06-03 23:33:19.174 DEBUG guac Fetching API hostnames 
+2023-06-03 23:33:19.202 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:33:49.176 DEBUG guac Fetching API hostnames 
+2023-06-03 23:33:49.201 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:33:52.431 INFO  guac Received a healthcheck 
+2023-06-03 23:34:19.177 DEBUG guac Fetching API hostnames 
+2023-06-03 23:34:19.203 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:34:49.178 DEBUG guac Fetching API hostnames 
+2023-06-03 23:34:49.204 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:34:52.534 INFO  guac Received a healthcheck 
+2023-06-03 23:35:19.178 DEBUG guac Fetching API hostnames 
+2023-06-03 23:35:19.203 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:35:49.179 DEBUG guac Fetching API hostnames 
+2023-06-03 23:35:49.206 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:35:52.635 INFO  guac Received a healthcheck 
+2023-06-03 23:36:19.179 DEBUG guac Fetching API hostnames 
+2023-06-03 23:36:19.205 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:36:49.180 DEBUG guac Fetching API hostnames 
+2023-06-03 23:36:49.206 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:36:52.726 INFO  guac Received a healthcheck 
+2023-06-03 23:37:19.180 DEBUG guac Fetching API hostnames 
+2023-06-03 23:37:19.207 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:37:49.181 DEBUG guac Fetching API hostnames 
+2023-06-03 23:37:49.208 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:37:52.812 INFO  guac Received a healthcheck 
+2023-06-03 23:38:19.181 DEBUG guac Fetching API hostnames 
+2023-06-03 23:38:19.206 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:38:49.183 DEBUG guac Fetching API hostnames 
+2023-06-03 23:38:49.210 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:38:52.908 INFO  guac Received a healthcheck 
+2023-06-03 23:39:19.183 DEBUG guac Fetching API hostnames 
+2023-06-03 23:39:19.210 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:39:49.184 DEBUG guac Fetching API hostnames 
+2023-06-03 23:39:49.209 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:39:52.968 INFO  guac Received a healthcheck 
+2023-06-03 23:40:19.184 DEBUG guac Fetching API hostnames 
+2023-06-03 23:40:19.213 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:40:49.185 DEBUG guac Fetching API hostnames 
+2023-06-03 23:40:49.211 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:40:53.058 INFO  guac Received a healthcheck 
+2023-06-03 23:41:19.186 DEBUG guac Fetching API hostnames 
+2023-06-03 23:41:19.212 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:41:49.187 DEBUG guac Fetching API hostnames 
+2023-06-03 23:41:49.220 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:41:53.143 INFO  guac Received a healthcheck 
+2023-06-03 23:42:19.187 DEBUG guac Fetching API hostnames 
+2023-06-03 23:42:19.214 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:42:49.188 DEBUG guac Fetching API hostnames 
+2023-06-03 23:42:49.213 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:42:53.222 INFO  guac Received a healthcheck 
+2023-06-03 23:43:19.188 DEBUG guac Fetching API hostnames 
+2023-06-03 23:43:19.213 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:43:49.189 DEBUG guac Fetching API hostnames 
+2023-06-03 23:43:49.215 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:43:53.307 INFO  guac Received a healthcheck 
+2023-06-03 23:44:19.189 DEBUG guac Fetching API hostnames 
+2023-06-03 23:44:19.214 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:44:49.190 DEBUG guac Fetching API hostnames 
+2023-06-03 23:44:49.214 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:44:53.386 INFO  guac Received a healthcheck 
+2023-06-03 23:45:19.191 DEBUG guac Fetching API hostnames 
+2023-06-03 23:45:19.218 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:45:49.192 DEBUG guac Fetching API hostnames 
+2023-06-03 23:45:49.218 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:45:53.491 INFO  guac Received a healthcheck 
+2023-06-03 23:46:19.193 DEBUG guac Fetching API hostnames 
+2023-06-03 23:46:19.220 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:46:49.194 DEBUG guac Fetching API hostnames 
+2023-06-03 23:46:49.220 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:46:53.575 INFO  guac Received a healthcheck 
+2023-06-03 23:47:19.194 DEBUG guac Fetching API hostnames 
+2023-06-03 23:47:19.220 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:47:49.194 DEBUG guac Fetching API hostnames 
+2023-06-03 23:47:49.220 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:47:53.677 INFO  guac Received a healthcheck 
+2023-06-03 23:48:19.194 DEBUG guac Fetching API hostnames 
+2023-06-03 23:48:19.221 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:48:49.194 DEBUG guac Fetching API hostnames 
+2023-06-03 23:48:49.220 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:48:53.758 INFO  guac Received a healthcheck 
+2023-06-03 23:49:19.194 DEBUG guac Fetching API hostnames 
+2023-06-03 23:49:19.227 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:49:49.194 DEBUG guac Fetching API hostnames 
+2023-06-03 23:49:49.221 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:49:53.848 INFO  guac Received a healthcheck 
+2023-06-03 23:50:19.194 DEBUG guac Fetching API hostnames 
+2023-06-03 23:50:19.222 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:50:49.195 DEBUG guac Fetching API hostnames 
+2023-06-03 23:50:49.222 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:50:53.939 INFO  guac Received a healthcheck 
+2023-06-03 23:51:19.196 DEBUG guac Fetching API hostnames 
+2023-06-03 23:51:19.223 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:51:49.196 DEBUG guac Fetching API hostnames 
+2023-06-03 23:51:49.223 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:51:54.049 INFO  guac Received a healthcheck 
+2023-06-03 23:52:19.196 DEBUG guac Fetching API hostnames 
+2023-06-03 23:52:19.223 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:52:49.197 DEBUG guac Fetching API hostnames 
+2023-06-03 23:52:49.224 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:52:54.130 INFO  guac Received a healthcheck 
+2023-06-03 23:53:19.197 DEBUG guac Fetching API hostnames 
+2023-06-03 23:53:19.227 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:53:49.197 DEBUG guac Fetching API hostnames 
+2023-06-03 23:53:49.224 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:53:54.228 INFO  guac Received a healthcheck 
+2023-06-03 23:54:19.197 DEBUG guac Fetching API hostnames 
+2023-06-03 23:54:19.222 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:54:49.197 DEBUG guac Fetching API hostnames 
+2023-06-03 23:54:49.226 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:54:54.314 INFO  guac Received a healthcheck 
+2023-06-03 23:55:19.199 DEBUG guac Fetching API hostnames 
+2023-06-03 23:55:19.225 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:55:49.199 DEBUG guac Fetching API hostnames 
+2023-06-03 23:55:49.223 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:55:54.390 INFO  guac Received a healthcheck 
+2023-06-03 23:56:19.200 DEBUG guac Fetching API hostnames 
+2023-06-03 23:56:19.224 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:56:49.200 DEBUG guac Fetching API hostnames 
+2023-06-03 23:56:49.224 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:56:54.481 INFO  guac Received a healthcheck 
+2023-06-03 23:57:19.200 DEBUG guac Fetching API hostnames 
+2023-06-03 23:57:19.226 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:57:49.200 DEBUG guac Fetching API hostnames 
+2023-06-03 23:57:49.224 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:57:54.578 INFO  guac Received a healthcheck 
+2023-06-03 23:58:19.200 DEBUG guac Fetching API hostnames 
+2023-06-03 23:58:19.226 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:58:49.200 DEBUG guac Fetching API hostnames 
+2023-06-03 23:58:49.224 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:58:54.653 INFO  guac Received a healthcheck 
+2023-06-03 23:59:19.200 DEBUG guac Fetching API hostnames 
+2023-06-03 23:59:19.225 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:59:49.205 DEBUG guac Fetching API hostnames 
+2023-06-03 23:59:49.228 DEBUG guac Found API hostnames: proxy,docker-box 
+2023-06-03 23:59:54.754 INFO  guac Received a healthcheck 
+

@@ -1,0 +1,2411 @@
+reading config file /etc/logrotate.conf
+Creating stub state file: /var/lib/logrotate.status
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+Creating new state
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+Creating new state
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Creating stub state file: /var/lib/logrotate.status
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+Creating new state
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+Creating new state
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+reading config file /etc/logrotate.conf
+Creating stub state file: /var/lib/logrotate.status
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+Creating new state
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+Creating new state
+reading config file /etc/logrotate.conf
+Reading state from file: /var/lib/logrotate.status
+Allocating hash table for state file, size 64 entries
+Creating new state
+Creating new state
+
+Handling 1 logs
+
+rotating pattern: /var/log/external/nginx/*.log  10240 bytes (20 rotations)
+empty log files are not rotated, old logs are removed
+considering log /var/log/external/nginx/access_json.log
+error: skipping "/var/log/external/nginx/access_json.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
+considering log /var/log/external/nginx/error.log
+error: skipping "/var/log/external/nginx/error.log" because parent directory has insecure permissions (It's world writable or writable by group which is not "root") Set "su" directive in config file to tell logrotate which user/group should be used for rotation.
