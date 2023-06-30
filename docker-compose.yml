@@ -1,8 +1,8 @@
-version: '3.9'
+version: "3.9"
 services:
   caddy:
     container_name: caddy
-#    image: lucaslorentz/caddy-docker-proxy:alpine
+    #    image: lucaslorentz/caddy-docker-proxy:alpine
     image: caddy:2-alpine
     restart: unless-stopped
     volumes:
@@ -14,10 +14,10 @@ services:
     ports:
       - 80:80
       - 443:443
-#    environment:
-#      - CADDY_INGRESS_NETWORKS=caddy
-#    networks:
-#      - caddy
+    #    environment:
+    #      - CADDY_INGRESS_NETWORKS=caddy
+    #    networks:
+    #      - caddy
     network_mode: host
 
   nextcloud:
@@ -72,7 +72,7 @@ services:
     environment:
       - PUID=1000
       - PGID=1000
-      - CF_API_TOKEN=fuzfHZ57u2XPQ_gi4daQAImg0fXCCj7tjhoTdvT6
+      - CF_API_TOKEN=${CF_TOKEN}
       - DOMAINS=final.guru
       - PROXIED=false
 
@@ -103,4 +103,3 @@ volumes:
   caddy-certs:
   nextcloud_aio_mastercontainer:
     name: nextcloud_aio_mastercontainer
-
