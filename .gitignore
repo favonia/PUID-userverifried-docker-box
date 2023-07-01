@@ -1,3 +1,5 @@
 .env
 **/.env
 traefik/.env
+aio/.env
+aio/data/letsencrypt

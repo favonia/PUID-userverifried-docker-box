@@ -9,110 +9,51 @@ volumes:
     name: nextcloud_aio_mastercontainer
   nc-data:
     driver: local
-  vaultwarden-data:
-    driver: local
 
 services:
-  cloudflare-ddns:
-    image: favonia/cloudflare-ddns:latest
-    network_mode: host
-    restart: always
-    cap_add:
-      - SETUID
-      - SETGID
-    cap_drop:
-      - all
-    read_only: true
-    security_opt:
-      - no-new-privileges:true
-    environment:
-      - PUID=1000
-      - PGID=1000
-      - CF_API_TOKEN=4jk_MWfMLfNJPbJsZbpCw6WS_oR056lqJLvPzatp
-      - DOMAINS=xfrc.xyz
-      - PROXIED=false
-
   nextcloud:
     image: nextcloud/all-in-one:latest
     restart: unless-stopped
     container_name: nextcloud-aio-mastercontainer
     volumes:
-      - nextcloud_aio_mastercontainer:/opt/docker-aio-config
+      - nextcloud_aio_mastercontainer:/mnt/docker-aio-config
       - /var/run/docker.sock:/var/run/docker.sock:ro
       - nc-data:/mnt/ncdata
+    networks:
+      - traefik-proxy
     ports:
       - 8080:8080
+
     environment:
       - APACHE_PORT=11000
       - NEXTCLOUD_DATADIR=/mnt/ncdata
-
-  vaultwarden:
-    image: vaultwarden/server:latest
-    container_name: vaultwarden
-    restart: always
-    volumes:
-      - vaultwarden-data:/opt/vaultwarden/data
-    ports:
-      - 8081:80
-    environment:
-      - WEBSOCKET_ENABLED=true
-      - ADMIN_TOKEN=${VAULTWARDEN_ADMIN_TOKEN}
-      - DOMAIN=${VW_DOMAIN}
-      - SIGNUPS_ALLOWED=false
-      - SIGNUPS_VERIFY=true
-      - SIGNUPS_DOMAINS_WHITELIST=${VW_DOMAIN}
-    labels:
-      # Services
-      - "traefik.enable=true"
-      - "traefik.http.services.vaultwarden-ui.loadbalancer.server.port=8081"
-      - "traefik.http.services.vaultwarden-ws.loadbalancer.server.port=3012"
-      # Webinterface HTTP (to HTTPS redirect)
-      - "traefik.http.routers.vaultwarden.rule=Host(`${VW_DOMAIN}`)"
-      - "traefik.http.routers.vaultwarden.entrypoints=http"
-      - "traefik.http.routers.vaultwarden.service=vaultwarden-ui"
-      - "traefik.http.routers.vaultwarden.middlewares=http-to-https@file"
-      # Webinterface HTTPS
-      - "traefik.http.routers.vaultwarden-ssl.rule=Host(`${VW_DOMAIN}`)"
-      - "traefik.http.routers.vaultwarden-ssl.entrypoints=https"
-      - "traefik.http.routers.vaultwarden-ssl.service=vaultwarden-ui"
-      - "traefik.http.routers.vaultwarden-ssl.tls=true"
-      # Websocket HTTP (to HTTPS redirect)
-      - "traefik.http.routers.vaultwarden-websocket.rule=Host(`${VW_DOMAIN}`) && Path(`/notifications/hub`)"
-      - "traefik.http.routers.vaultwarden-websocket.entrypoints=http"
-      - "traefik.http.routers.vaultwarden-websocket.service=vaultwarden-ws"
-      - "traefik.http.routers.vaultwarden-websocket.middlewares=http-to-https@file"
-      # Websocket HTTPS
-      - "traefik.http.routers.vaultwarden-websocket-ssl.rule=Host(`${VW_DOMAIN}`) && Path(`/notifications/hub`)"
-      - "traefik.http.routers.vaultwarden-websocket-ssl.entrypoints=https"
-      - "traefik.http.routers.vaultwarden-websocket-ssl.service=vaultwarden-ws"
-      - "traefik.http.routers.vaultwarden-websocket-ssl.tls=true"
-    networks:
-      - traefik-proxy
 
   traefik:
     image: "traefik:latest"
     container_name: "traefik"
     restart: unless-stopped
+    depends_on:
+      - nextcloud
     networks:
       - traefik-proxy
     ports:
       - 80:80
       - 443:443
     volumes:
-      - ${DOCKER_BOX}/traefik/data/traefik.yml:/traefik.yml:ro
-      - ${DOCKER_BOX}/traefik/data/config.yml:/config.yml
-      - ${DOCKER_BOX}/traefik/data/letsencrypt:/letsencrypt
-      - ${DOCKER_BOX}/traefik/data/traefik.log:/traefik.log
+      - /home/azureuser/docker-box/aio/data/traefik.yml:/traefik.yml:ro
+      - /home/azureuser/docker-box/aio/data/config.yml:/config.yml
+      - /home/azureuser/docker-box/aio/data/letsencrypt:/letsencrypt
+      - /home/azureuser/docker-box/aio/data/traefik.log:/traefik.log
       - /var/run/docker.sock:/var/run/docker.sock:ro
       - /etc/localtime:/etc/localtime:ro
     environment:
-      - CF_API_EMAIL=${CF_EMAIL}
-      - CF_API_KEY=${CF_APIKEY}
+      - CF_API_EMAIL="agrivatedelbow@gmail.com"
+      - CF_API_KEY=4124b9d3059b5b91d4ef9ae8dfae53e3831d5
     labels:
       - traefik.enable=true
-      - trafik.docker.network=traefik-proxy
+      - traefik.docker.network=traefik-proxy
       - traefik.http.routers.traefik.tls=true
       - traefik.http.routers.traefik.tls.certresolver=cloudflare
-      - traefik.http.routers.traefik.tls.domains[0].main=${DOMAIN}
-      - traefik.http.routers.traefik.tls.domains[0].sans=*.${DOMAIN}
+      - traefik.http.routers.traefik.tls.domains[0].main=xfrc.xyz
+      - traefik.http.routers.traefik.tls.domains[0].sans=*.xfrc.xyz
       - traefik.http.routers.traefik.service=api@internal

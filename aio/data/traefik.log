@@ -1,0 +1,8 @@
+time="2023-07-01T03:30:44Z" level=info msg="I have to go..."
+time="2023-07-01T03:30:44Z" level=info msg="Stopping server gracefully"
+time="2023-07-01T03:30:44Z" level=error msg="accept tcp [::]:443: use of closed network connection" entryPointName=https
+time="2023-07-01T03:30:44Z" level=error msg="Error while starting server: accept tcp [::]:443: use of closed network connection" entryPointName=https
+time="2023-07-01T03:30:44Z" level=error msg="accept tcp [::]:80: use of closed network connection" entryPointName=http
+time="2023-07-01T03:30:44Z" level=error msg="Error while starting server: accept tcp [::]:80: use of closed network connection" entryPointName=http
+time="2023-07-01T03:30:44Z" level=info msg="Server stopped"
+time="2023-07-01T03:30:44Z" level=info msg="Shutting down"

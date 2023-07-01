@@ -1,15 +1,16 @@
 http:
   routers:
     nextcloud:
-      rule: "Host(`${NC_DOMAIN}`)"
+      rule: "Host(`cloud.xfrc.xyz`)"
       entrypoint:
         - "https"
       service: nextcloud
       middlewares:
-        - nextcloud-chain
+        - https-redirect
+        - nextcloud-secure-headers
       tls:
         domains:
-          - main: "${NC_DOMAIN}"
+          - main: "cloud.xfrc.xyz"
 
     aio:
       rule: "Host(`aio.xfrc.xyz`)"
@@ -17,24 +18,30 @@ http:
         - "https"
       service: aio
       middlewares:
-        - nextcloud-chain
+        - https-redirect
+        - aio-secure-headers
       tls:
         domains:
           - main: "aio.xfrc.xyz"
-              
+
   services:
     nextcloud:
       loadBalancer:
         servers:
           - url: "http://localhost:11000"
-        passHostHeaders: true
+        passHostHeader: true
     aio:
       loadBalancer:
         servers:
-          - url: "http://localhost:8080"
-        passHostHeaders: true
-        
+          - url: "https://localhost:8080"
+        passHostHeader: true
+
   middlewares:
+    https-redirect:
+      redirectScheme:
+        scheme: https
+        permanent: true
+
     nextcloud-secure-headers:
       headers:
         hostsProxyHeaders:
@@ -42,13 +49,11 @@ http:
         referrerPolicy: "same-origin"
         customResponseHeaders:
             X-Robots-Tag: "none"
-   
-    https-redirect:
-      redirectscheme:
-        scheme: https        
-        permanent: true
 
-    nextcloud-chain:
-      chain:
-        - https-redirect
-        - nextcloud-secure-headers
+    aio-secure-headers:
+      headers:
+        hostsProxyHeaders:
+          - "X-Forwarded-Host"
+        referrerPolicy: "same-origin"
+        customResponseHeaders:
+            X-Robots-Tag: "none"

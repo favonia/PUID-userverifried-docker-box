@@ -7,7 +7,8 @@ log:
   filePath: /traefik.log
 
 api:
-  dashboard: true
+  dashboard: false
+  debug: true
 
 entryPoints:
   http:
@@ -31,13 +32,13 @@ providers:
   file:
     filename: /config.yml
 
-  certificateResolvers:
-    cloudflare:
-      acme:
-        email: ${LE_EMAIL}
-        storage: /letsencrypt/acme.json
-        dnsChallenge: 
-          provider: cloudflare
-          resolvers:
-            - 1.1.1.1
-            - 1.0.0.1
+certificatesResolvers:
+  cloudflare:
+    acme:
+      email: "former.answer@outlook.com"
+      storage: /letsencrypt/acme.json
+      dnsChallenge:
+        provider: cloudflare
+        resolvers:
+          - "1.1.1.1:53"
+          - "1.0.0.1:53"
