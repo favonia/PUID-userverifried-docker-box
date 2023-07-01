@@ -44,5 +44,3 @@ services:
       - "traefik.http.routers.vaultwarden-websocket-ssl.entrypoints=https"
       - "traefik.http.routers.vaultwarden-websocket-ssl.service=vaultwarden-ws"
       - "traefik.http.routers.vaultwarden-websocket-ssl.tls=true"
-    networks:
-      - traefik-proxy

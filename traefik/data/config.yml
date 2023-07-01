@@ -10,12 +10,28 @@ http:
       tls:
         domains:
           - main: "${NC_DOMAIN}"
-  
+
+    aio:
+      rule: "Host(`aio.xfrc.xyz`)"
+      entrypoint:
+        - "https"
+      service: aio
+      middlewares:
+        - nextcloud-chain
+      tls:
+        domains:
+          - main: "aio.xfrc.xyz"
+              
   services:
     nextcloud:
       loadBalancer:
         servers:
           - url: "http://localhost:11000"
+        passHostHeaders: true
+    aio:
+      loadBalancer:
+        servers:
+          - url: "http://localhost:8080"
         passHostHeaders: true
         
   middlewares:
